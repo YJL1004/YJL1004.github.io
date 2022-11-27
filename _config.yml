@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jiali You"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Southwest University of Science and Technology"
+  bio              : "Master of Engineering at Southwest University of Science and Technology, expert in multiple kernel/view clustering"
+  location         : "Mianyang, Sichuan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0svN-4MAAAAJ&hl=zh-CN&oi=sra"
   email            :
   researchgate     : "https://www.researchgate.net/profile/You-Jiali"
