@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiali You|Homepage of Jiali You"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
