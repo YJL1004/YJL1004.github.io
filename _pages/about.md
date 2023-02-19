@@ -12,7 +12,9 @@ Jiali You is a master's student at Southwest University of Science and Technolog
 
 Research Interests
 ======
-<img src="/images/500x300.png" width = 100% align=center/>
+<img src="/images/500x300.png" width = 100% />
+![](../images/500x300.png)
+{% <img src="/images/500x300.png" width = 100% /> %}
 1. Clustering: the technique used in unsupervised machine learning to divide a set of data points into distinct clusters, such that data points within a cluster are more similar to each other than to those in other clusters.
 2. Multi-kernel clustering: a type of clustering method that uses multiple kernels to better capture the complex structure of the data.
 3. Multi-view clustering: a type of clustering algorithm that integrates information from multiple views, or perspectives, of the data to improve clustering performance.
