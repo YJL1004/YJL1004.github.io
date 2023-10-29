@@ -1,8 +1,8 @@
 ---
-title: "Cluster center consistency guided sampling learning for multiple kernel clustering"
+title: "One-Stage Shifted Laplacian Refining for Multiple Kernel Clustering"
 collection: publications
-permalink: /publication/2022-01-01-Cluster-center-consistency-guided-sampling-learning-for-multiple-kernel-clustering
-date: 2022-01-01
-venue: 'Information Sciences'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0020025522005059'
+permalink: /publication/2022-01-01-One-Stage-Shifted-Laplacian-Refining-for-Multiple-Kernel-Clustering
+date: 2023-04-04
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10091844'
 ---
