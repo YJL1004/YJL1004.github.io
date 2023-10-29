@@ -7,4 +7,3 @@ venue: 'Applied Intelligence'
 paperurl: 'https://doi.org/10.1007/s10489-022-03679-x'
 
 ---
-[Access paper here](https://doi.org/10.1007/s10489-022-03679-x){:target="_blank"}
