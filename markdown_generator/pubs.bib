@@ -12,23 +12,83 @@ keywords = {Multiple kernel clustering, Multi-view clustering, Anchor sampling, 
 abstract = {Multiple kernel clustering (MKC) is popular in processing non-linear data over the past years. The main challenge is that the kernel matrix with the size n×n leads to high memory and computational consumption, where n denotes the number of samples. Although the widely used static anchor sampling can mitigate such a challenging considerably, how to dynamically select anchor points with a learning manner from kernel matrix is a difficult problem. To address the issue, this paper proposes a novel method dubbed as cluster center consistency guided sampling learning (3CSL) for multiple kernel clustering (3CSL-MKC). Specifically, by taking the cluster center consistency between the original partial kernel data and anchor points into consideration, 3CSL-MKC learns the shared anchor sampling matrix gradually. With the help of high-quality anchors, the essential clustering information of each kernel partition can be transformed largely into a concentrated low-dimensional representation matrix. Meanwhile, based on dictionary learning, 3CSL-MKC fuses these candidate representation matrixes to produce the resulting consensus representation, such that the clustering assignments can be directly obtained relying on simple k-means. A large number of experiments are conducted on different multiple kernel datasets to verify the effectiveness and efficiency of the proposed method.}
 }
 
-@Article{You2023,
-author={You, Jiali
-and Han, Chiyu
-and Ren, Zhenwen
-and Li, Haoran
-and You, Xiaojian},
-title={Clustering via multiple kernel k-means coupled graph and enhanced tensor learning},
-journal={Applied Intelligence},
-year={2023},
-month={Feb},
-day={01},
-volume={53},
-number={3},
-pages={2564-2575},
-abstract={Kernel k-means based and spectral clustering (SC) based multi-kernel clustering (MKC) has been widely used in recent years due to the efficiency in grouping nonlinear data. However, (1) the methods based on the above two categories only focus on clustering indicator matrix learning or graph learning, few of them have noticed the connection between the two; and (2) it is hard for existing methods to consider the high-order similarities of all pre-defined base kernels, which leads to the waste of inter-kernel information. To solve these problems, we propose kernel k-means coupled graph and enhanced tensor learning (KKG-ETL). Concretely, a new graph learning paradigm, kernel k-means coupled graph (KKG), is proposed to establish the theoretical relation between clustering indicator matrix and affinity graph. Therefore, a better candidate affinity graph can be obtained for each base kernel. Then, enhanced tensor learning (ETL) is proposed to capture the high-order similarities of all candidate graphs via an auto-weighted Schatten p-norm. In this framework, we integrate the indication properties of kernel k-means and the manifold excavation capability of SC, while exploring the high-order similarities among all kernels. Comprehensive experiments on 8 widely used datasets verify the validity and feasibility of our proposed KKG-ETL.},
-issn={1573-7497},
-doi={10.1007/s10489-022-03679-x},
-url={https://doi.org/10.1007/s10489-022-03679-x}
+@article{you2023clustering,
+  title={Clustering via multiple kernel k-means coupled graph and enhanced tensor learning},
+  author={You, Jiali and Han, Chiyu and Ren, Zhenwen and Li, Haoran and You, Xiaojian},
+  journal={Applied Intelligence},
+  volume={53},
+  number={3},
+  pages={2564--2575},
+  year={2023},
+  publisher={Springer}
 }
 
+@inproceedings{10.1145/3503161.3548307,
+author = {You, Jiali and Ren, Zhenwen and Sun, Quansen and Sun, Yuan and Li, Xingfeng},
+title = {Approximate Shifted Laplacian Reconstruction for Multiple Kernel Clustering},
+year = {2022},
+isbn = {9781450392037},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3503161.3548307},
+doi = {10.1145/3503161.3548307},
+abstract = {Multiple kernel clustering (MKC) has demonstrated promising performance for handing non-linear data clustering. Positively, it can integrate complementary information of multiple base kernels and avoid kernel function selection. However, negatively, the main challenging is that the kernel matrix with the size n x n leads to O(n2) memory complexity and O(n3) computational complexity. To mitigate such a challenging, taking graph Laplacian as breakthrough, this paper proposes a novel and simple MKC method, dubbed as approximate shifted Laplacian reconstruction (ASLR). For each base kernel, we propose the r-rank shifted Laplacian reconstruction scheme by considering the energy losing of Laplacian reconstruction and the clustering information preserving of Laplacian decompose simultaneously. Then, by analyzing the eigenvectors of the reconstructed Laplacian, we impose some constrains to tame its solution within a Fantope. Accordingly, the byproduct (i.e. the most informative eigenvectors) contains the main clustering information, such that the clustering assignments can be obtained relying on simple k-means algorithm. Owe to the Laplacian reconstruction scheme, the memory and computational complexity can be reduced to O(n) and O&lt;(n^2)$, respectively. As experimentally demonstrated on eight challenging MKC benchmark datasets, the results verify the effectiveness and efficiency of ASLR.},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+pages = {2862–2870},
+numpages = {9},
+keywords = {multiple kernel learning, shifted Laplacian, clustering},
+location = {Lisboa, Portugal},
+series = {MM '22}
+}
+
+@ARTICLE{10091844,
+  author={You, Jiali and Ren, Zhenwen and Yu, F. Richard and You, Xiaojian},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  title={One-Stage Shifted Laplacian Refining for Multiple Kernel Clustering},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TNNLS.2023.3262590}}
+
+@ARTICLE{10098829,
+  author={Li, Haoran and Guo, Yulan and Ren, Zhenwen and Yu, F. Richard and You, Jiali and You, Xiaojian},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  title={Explicit Local Coupling Global Structure Clustering},
+  year={2023},
+  volume={33},
+  number={11},
+  pages={6649-6660},
+  doi={10.1109/TCSVT.2023.3266283}}
+
+@article{You_Ren_You_Li_Yao_2023, title={Priori Anchor Labels Supervised Scalable Multi-View Bipartite Graph Clustering}, volume={37}, url={https://ojs.aaai.org/index.php/AAAI/article/view/26300}, DOI={10.1609/aaai.v37i9.26300}, abstractNote={Although multi-view clustering (MVC) has achieved remarkable performance by integrating the complementary information of views, it is inefficient when facing scalable data. Proverbially, anchor strategy can mitigate such a challenge a certain extent. However, the unsupervised dynamic strategy usually cannot obtain the optimal anchors for MVC. The main reasons are that it does not consider the fairness of different views and lacks the priori supervised guidance. To completely solve these problems, we first propose the priori anchor graph regularization (PAGG) for scalable multi-view bipartite graph clustering, dubbed as SMGC method. Specifically, SMGC learns a few representative consensus anchors to simulate the numerous view data well, and constructs a bipartite graph to bridge the affinities between the anchors and original data points. In order to largely improve the quality of anchors, PAGG predefines prior anchor labels to constrain the anchors with discriminative cluster structure and fair view allocation, such that a better bipartite graph can be obtained for fast clustering. Experimentally, abundant of experiments are accomplished on six scalable benchmark datasets, and the experimental results fully demonstrate the effectiveness and efficiency of our SMGC.}, number={9}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={You, Jiali and Ren, Zhenwen and You, Xiaojian and Li, Haoran and Yao, Yuancheng}, year={2023}, month={Jun.}, pages={10972-10979} }
+
+@ARTICLE{You2023-ws,
+  title    = "Consider high-order consistency for multi-view clustering",
+  author   = "You, Xiaojian and Li, Haoran and You, Jiali and Ren, Zhenwen",
+  abstract = "Tensor-based multi-view clustering has attracted intensive
+              attention due to the effectiveness of exploiting multi-view data
+              information. However, most existing methods purely aim to explore
+              the consistency of different views while neglecting the inherent
+              difference between views, which may lead to incomplete modeling
+              and affect the final clustering performance. To handle this
+              problem, in this paper, we unify the consistency and specificity
+              to model the multi-view data in a tensor manner. Specifically, we
+              learn multiple candidate graphs corresponding to all views
+              through self-expressiveness learning. Then these candidate graphs
+              are decomposed into two sets of graphs, i.e., consistent graphs
+              and specific graphs, respectively. After that, these consistent
+              graphs are stacked into a tensor to exploit the high-order
+              structure information while the specific graphs are used to
+              capture the inherent difference in each view, such that a refined
+              consensus affinity graph can be obtained for spectral clustering.
+              The established model is dubbed Consider High-Order Consistency
+              for Multi-View Clustering (CHOC-MVC), and its optimal problem can
+              be efficiently solved by the alternating direction method of
+              multipliers (ADMM). The experimental results demonstrate the
+              effectiveness of our proposed method. The source code is
+              available at https://github.com/haoranli50/CHOC-MVSC.",
+  journal  = "Neural Computing and Applications",
+  month    =  oct,
+  year     =  2023
+}
