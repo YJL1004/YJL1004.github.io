@@ -18,7 +18,7 @@ Research Interests
 
 - **Multimodal Affective Computing**: refers to a technique that utilizes information from various sensory modalities, such as text, speech, images, etc., to infer emotional states or affective attributes.
 
-NEWS
+<span style="background-image: linear-gradient(to right, red, yellow); -webkit-background-clip: text; color: transparent;">News</span>
 =======
 
 
