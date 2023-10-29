@@ -10,7 +10,7 @@ redirect_from:
 
 Jiali You is a master's student at Southwest University of Science and Technology and a member of the China Society of Image and Graphics. During her studies, she has focused on theoretical research in non-linear data analysis and clustering, and has published papers in top international conferences and journals in the field of artificial intelligence, such as AAAI, ACM MM, and TNNLS. Her work centers on multi-kernel data analysis in the era of big data, and aims to systematically address storage, computation, and performance challenges faced by big data. She is committed to improving the accuracy of data clustering analysis while reducing storage and computational complexity.
 
-title: "Research Interests"
+Research Interests
 =======
 1. Clustering: the technique used in unsupervised machine learning to divide a set of data points into distinct clusters, such that data points within a cluster are more similar to each other than to those in other clusters.
 2. Multi-kernel clustering: a type of clustering method that uses multiple kernels to better capture the complex structure of the data.
