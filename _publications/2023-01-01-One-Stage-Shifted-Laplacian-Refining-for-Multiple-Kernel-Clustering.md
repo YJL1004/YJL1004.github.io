@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-One-Stage-Shifted-Laplacian-Refining-for-Multiple-Kernel-Clustering
 date: 2023-01-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
-author: 
+authors: 
   - 'Jiali You, '
   - 'Zhenwen Ren, '
   - 'F. Yu, '

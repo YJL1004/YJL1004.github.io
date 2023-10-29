@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-Clustering-via-multiple-kernel-k-means-coupled-graph-and-enhanced-tensor-learning
 date: 2023-01-01
 venue: 'Applied Intelligence'
-author: 
+authors: 
   - 'Jiali You, '
   - 'Chiyu Han, '
   - 'Zhenwen Ren, '

@@ -138,7 +138,7 @@ for pubsource in publist:
 
             # md += "\ncitation: '" + html_escape(citation) + "'"
 
-            md += "\nauthor: " + authors
+            md += "\nauthors: " + authors
 
             md += "\n---"
 

@@ -5,7 +5,7 @@ permalink: /publication/2022-01-01-Cluster-center-consistency-guided-sampling-le
 date: 2022-01-01
 venue: 'Information Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0020025522005059'
-author: 
+authors: 
   - 'Jiali You, '
   - 'Yanglei Hou, '
   - 'Zhenwen Ren, '
