@@ -97,6 +97,10 @@ redirect_from:
     margin-bottom: 0.48em;
   }
 
+  #publications {
+    font-size: 20px;
+  }
+
   #publications ul {
     margin-left: 0;
     list-style: none;
