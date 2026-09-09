@@ -85,16 +85,21 @@ redirect_from:
 
   .sidebar .author__name {
     font-size: 1.35em !important;
-    text-align: center;
+    display: block;
+    width: 100%;
+    text-align: center !important;
   }
 
   .sidebar .author__bio,
-  .sidebar .author__education,
-  .sidebar .author__education li,
   .sidebar .author__urls li,
   .sidebar .author__urls a {
     font-size: 1.16em !important;
     line-height: 1.48 !important;
+  }
+
+  .sidebar .author__avatar,
+  .sidebar .author__content {
+    text-align: center !important;
   }
 
   .sidebar .author__education {
@@ -102,29 +107,29 @@ redirect_from:
     padding: 0 !important;
     display: inline-block;
     text-align: left;
+    font-size: 0.94em !important;
+    line-height: 1.35 !important;
   }
 
   .sidebar .author__education li {
     margin-bottom: 0.2em !important;
-  }
-
-  .sidebar .author__content {
-    text-align: center;
+    font-size: 0.94em !important;
+    line-height: 1.35 !important;
   }
 
   @media (min-width: 925px) {
     #main {
-      max-width: 1500px !important;
+      max-width: 1600px !important;
     }
 
     .page {
-      width: 78% !important;
+      width: 80% !important;
       padding-left: 1.5% !important;
       padding-right: 0 !important;
     }
 
     .sidebar {
-      width: 19% !important;
+      width: 18% !important;
     }
 
     .author__avatar img {
