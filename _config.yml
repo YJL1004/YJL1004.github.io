@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiali You/ Homepage"
+title                    : "Jiali You | Homepage"
 title_separator          : "-"
 name                     : &name "Jiali You"
 description              : &description "personal description"
