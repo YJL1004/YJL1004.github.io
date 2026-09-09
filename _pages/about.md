@@ -150,7 +150,7 @@ redirect_from:
 
 <section id="about-me" class="home-section">
   <h1><span>&#128105;</span> About me</h1>
-  <p>Jiali You is a master's student at Southwest University of Science and Technology and a member of the China Society of Image and Graphics. During her studies, she has focused on theoretical research in non-linear data analysis and clustering, and has published papers in top international conferences and journals in the field of artificial intelligence, such as AAAI, ACM MM, and TNNLS. Her work centers on multi-kernel data analysis in the era of big data, and aims to systematically address storage, computation, and performance challenges faced by big data. She is committed to improving the accuracy of data clustering analysis while reducing storage and computational complexity.</p>
+  <p><strong>Jiali You (游佳莉)</strong> is a 博士研究生 at the 电子科技大学, 成都, 四川, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=eyLJ0fMAAAAJ&amp;hl=zh-CN">Fuji Ren</a>. She 毕业于西南科技大学，获硕士学位, supervised by Profs. <a href="http://unix8.net/">Zhenwen Ren</a> and Yuancheng Yao.</p>
   <p><strong>Research Interests:</strong> clustering, multi-kernel clustering, multi-view clustering, and multimodal affective computing.</p>
 </section>
 
