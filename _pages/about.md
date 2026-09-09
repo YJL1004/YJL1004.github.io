@@ -85,58 +85,62 @@ redirect_from:
     }
 
     .page {
-      width: 80% !important;
+      width: 78% !important;
       padding-left: 1.5% !important;
       padding-right: 0 !important;
     }
 
     .sidebar {
-      width: 17% !important;
+      width: 19% !important;
+    }
+
+    .author__avatar img {
+      max-width: 220px !important;
     }
   }
 </style>
 
 <section id="about-me" class="home-section">
-  <h1>About me</h1>
+  <h1><span>&#128100;</span> About me</h1>
   <p>Jiali You is a master's student at Southwest University of Science and Technology and a member of the China Society of Image and Graphics. During her studies, she has focused on theoretical research in non-linear data analysis and clustering, and has published papers in top international conferences and journals in the field of artificial intelligence, such as AAAI, ACM MM, and TNNLS. Her work centers on multi-kernel data analysis in the era of big data, and aims to systematically address storage, computation, and performance challenges faced by big data. She is committed to improving the accuracy of data clustering analysis while reducing storage and computational complexity.</p>
   <p><strong>Research Interests:</strong> clustering, multi-kernel clustering, multi-view clustering, and multimodal affective computing.</p>
 </section>
 
 <section id="honors-and-awards" class="home-section">
-  <h1>Honors and Awards</h1>
+  <h1><span>&#127942;</span> Honors and Awards</h1>
   <ul>
-    <li>Member of the China Society of Image and Graphics.</li>
-    <li>Selected publications in AAAI, ACM MM, TNNLS, TMM, EMNLP, WWW, Information Fusion, and other conferences/journals.</li>
+    <li>National Scholarship.</li>
+    <li>President Nomination Scholarship.</li>
+    <li>Outstanding Graduate of Sichuan Province.</li>
   </ul>
 </section>
 
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
   <ul>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Frequency-aware alignment and modality-aware fusion for multimodal sentiment analysis</a> is online in Information Fusion.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">MC-FF: A multi-community feature fusion framework for social bot detection</a> is online in Computers &amp; Security.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Salience-Guided Counterfactual Framework for Multimodal Sentiment Analysis</a> is online in Information Fusion.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">MvP-ECR: Multi-Perspective Emotion-Cause Reasoning for Empathetic Dialogue</a> is online in AAAI.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Decoupled hypergraph modeling for multimodal sentiment analysis</a> is online in Neurocomputing.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation</a> is online in WWW.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">ECC: An emotion-cause conversation dataset for empathy response</a> is online in EMNLP.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Hierarchical reasoning enhanced few-shot multimodal sentiment analysis</a> is online in Neurocomputing.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering</a> is online in IEEE Transactions on Multimedia.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Digital twin technology research progress from object-human-field interaction perspective</a> is online in Science and Technology Review.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">LSVC: A lifelong learning approach for stream-view clustering</a> is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">Consider high-order consistency for multi-view clustering</a> is online in Neural Computing and Applications.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">Multiple kernel graph clustering with shifted Laplacian reconstruction</a> is online in Engineering Applications of Artificial Intelligence.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Priori anchor labels supervised scalable multi-view bipartite graph clustering</a> is online in AAAI.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">One-stage shifted Laplacian refining for multiple kernel clustering</a> is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Explicit local coupling global structure clustering</a> is online in IEEE Transactions on Circuits and Systems for Video Technology.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Clustering via multiple kernel k-means coupled graph and enhanced tensor learning</a> is online in Applied Intelligence.</li>
-    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; <a href="#publications">Cluster center consistency guided sampling learning for multiple kernel clustering</a> is online in Information Sciences.</li>
-    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; <a href="#publications">Approximate shifted laplacian reconstruction for multiple kernel clustering</a> is online in ACM MM.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; two papers are online in <a href="#publications">Information Fusion</a>.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Computers &amp; Security</a>.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">AAAI</a>.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neurocomputing</a>.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">WWW</a>.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">EMNLP</a>.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Multimedia</a>.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neurocomputing</a>.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Science and Technology Review</a>.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neural Computing and Applications</a>.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Engineering Applications of Artificial Intelligence</a>.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">AAAI</a>.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Circuits and Systems for Video Technology</a>.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Applied Intelligence</a>.</li>
+    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Information Sciences</a>.</li>
+    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">ACM MM</a>.</li>
   </ul>
 </section>
 
 <section id="publications" class="home-section">
-  <h1>Publications</h1>
+  <h1><span>&#128221;</span> Publications</h1>
 
   <h2>2026</h2>
   <ul>
@@ -179,25 +183,18 @@ redirect_from:
 </section>
 
 <section id="projects" class="home-section">
-  <h1>Projects</h1>
-  <ul>
-    <li><a href="https://github.com/haoranli50/CHOC-MVSC">CHOC-MVSC</a>: code for high-order consistency based multi-view clustering.</li>
-    <li><a href="https://github.com/haoranli50/GPF">GPF</a>: code for graph proxy fusion based multi-view local information fusion clustering.</li>
-    <li><a href="https://github.com/haoranli50/LSVC">LSVC</a>: code for lifelong stream-view clustering.</li>
-    <li><a href="https://github.com/vvvvkoko/ETS-MM">ETS-MM</a>: code for multi-modal social bot detection.</li>
-    <li><a href="https://github.com/Yuan-23/ECC">ECC</a>: code and dataset resources for emotion-cause conversation and empathy response.</li>
-  </ul>
+  <h1><span>&#128187;</span> Projects</h1>
 </section>
 
 <section id="education" class="home-section">
-  <h1>Education</h1>
+  <h1><span>&#127891;</span> Education</h1>
   <ul>
-    <li>Master of Engineering, Southwest University of Science and Technology, Mianyang, Sichuan.</li>
+    <li>Ph.D., University of Electronic Science and Technology of China, Chengdu, Sichuan.</li>
   </ul>
 </section>
 
 <section id="services" class="home-section">
-  <h1>Services</h1>
+  <h1><span>&#129309;</span> Services</h1>
   <ul>
     <li>Member, China Society of Image and Graphics.</li>
   </ul>
