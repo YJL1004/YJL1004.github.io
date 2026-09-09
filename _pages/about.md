@@ -22,3 +22,5 @@ News
 =======
 -<span style="background-image: linear-gradient(to right, red, blue); -webkit-background-clip: text; color: transparent;">[Service]</span>:
 
+Honors and Awards
+=======

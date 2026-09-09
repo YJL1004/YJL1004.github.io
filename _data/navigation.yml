@@ -9,8 +9,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
   
-  # - title: "News"
-  #   url: /News/    
+  - title: "News"
+    url: /News/    
+  
+  - title: "Honors and Awards"
+    url: /Honors and Awards/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
