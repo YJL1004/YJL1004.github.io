@@ -1,0 +1,223 @@
+- title: "Frequency-aware alignment and modality-aware fusion for multimodal sentiment analysis"
+  year: 2026
+  venue: "Information Fusion"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:4TOpqqG69KYC"
+  authors:
+    - "J. Huang"
+    - "Y. Yang"
+    - "B. Wan"
+    - "Jiali You"
+    - "M. Zhang"
+    - "J. Deng"
+    - "F. Ren"
+
+- title: "MC-FF: A multi-community feature fusion framework for social bot detection"
+  year: 2026
+  venue: "Computers & Security"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:_kc_bZDykSQC"
+  authors:
+    - "W. Li"
+    - "J. Deng"
+    - "Jiali You"
+    - "Y. He"
+    - "Y. Zhuang"
+    - "F. Ren"
+
+- title: "Salience-Guided Counterfactual Framework for Multimodal Sentiment Analysis"
+  year: 2026
+  venue: "Information Fusion"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:ULOm3_A8WrAC"
+  authors:
+    - "Jiali You"
+    - "H. Li"
+    - "J. Deng"
+    - "W. Li"
+    - "Y. He"
+    - "F. Ren"
+
+- title: "MvP-ECR: Multi-Perspective Emotion-Cause Reasoning for Empathetic Dialogue"
+  year: 2026
+  venue: "AAAI"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:Zph67rFs4hoC"
+  authors:
+    - "Y. He"
+    - "G. Huang"
+    - "W. Li"
+    - "Jiali You"
+    - "J. Deng"
+    - "F. Ren"
+
+- title: "Decoupled hypergraph modeling for multimodal sentiment analysis"
+  year: 2026
+  venue: "Neurocomputing"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:MXK_kJrjxJIC"
+  authors:
+    - "Y. Huang"
+    - "J. Deng"
+    - "Y. Zhuang"
+    - "Jiali You"
+    - "Q. Liu"
+    - "F. Ren"
+
+- title: "ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation"
+  year: 2025
+  venue: "WWW"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:LkGwnXOMwfcC"
+  codeurl: "https://github.com/vvvvkoko/ETS-MM"
+  authors:
+    - "W. Li"
+    - "J. Deng"
+    - "Jiali You"
+    - "Y. He"
+    - "Y. Zhuang"
+    - "F. Ren"
+
+- title: "ECC: An emotion-cause conversation dataset for empathy response"
+  year: 2025
+  venue: "EMNLP"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:5nxA0vEk-isC"
+  codeurl: "https://github.com/Yuan-23/ECC"
+  authors:
+    - "Y. He"
+    - "Y. Pan"
+    - "W. Li"
+    - "Jiali You"
+    - "J. Deng"
+    - "F. Ren"
+
+- title: "Hierarchical reasoning enhanced few-shot multimodal sentiment analysis"
+  year: 2025
+  venue: "Neurocomputing"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:Se3iqnhoufwC"
+  authors:
+    - "Jiali You"
+    - "H. Li"
+    - "J. Deng"
+    - "W. Li"
+    - "Y. He"
+    - "F. Ren"
+
+- title: "Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering"
+  year: 2025
+  venue: "IEEE Transactions on Multimedia"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:ufrVoPGSRksC"
+  authors:
+    - "H. Li"
+    - "Y. Guo"
+    - "Jiali You"
+    - "X. You"
+    - "Z. Ren"
+
+- title: "“物− 人− 场” 交互视域下的数字孪生技术研究进展"
+  year: 2025
+  venue: "科技导报"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:kNdYIx-mwKoC"
+  authors:
+    - "游佳莉"
+    - "邓佳文"
+    - "焦子韵"
+    - "罗阿理"
+    - "宋轶晗"
+    - "邱波"
+    - "任福继"
+
+- title: "LSVC: A lifelong learning approach for stream-view clustering"
+  year: 2024
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:WF5omc3nYNoC"
+  authors:
+    - "H. Li"
+    - "Z. Ren"
+    - "Y. Guo"
+    - "Jiali You"
+    - "X. You"
+
+- title: "Consider high-order consistency for multi-view clustering"
+  year: 2024
+  venue: "Neural Computing and Applications"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:Y0pCki6q_DkC"
+  codeurl: "https://github.com/haoranli50/CHOC-MVSC"
+  authors:
+    - "X. You"
+    - "H. Li"
+    - "Jiali You"
+    - "Z. Ren"
+
+- title: "Multiple kernel graph clustering with shifted Laplacian reconstruction"
+  year: 2024
+  venue: "Engineering Applications of Artificial Intelligence"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:W7OEmFMy1HYC"
+  authors:
+    - "Y. Hou"
+    - "Jiali You"
+    - "C. Zhao"
+    - "J. Dai"
+    - "X. You"
+    - "Z. Ren"
+
+- title: "Priori anchor labels supervised scalable multi-view bipartite graph clustering"
+  year: 2023
+  venue: "AAAI"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:Tyk-4Ss8FVUC"
+  authors:
+    - "Jiali You"
+    - "Z. Ren"
+    - "X. You"
+    - "H. Li"
+    - "Y. Yao"
+
+- title: "One-stage shifted Laplacian refining for multiple kernel clustering"
+  year: 2023
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:IjCSPb-OGe4C"
+  authors:
+    - "Jiali You"
+    - "Z. Ren"
+    - "F. R. Yu"
+    - "X. You"
+
+- title: "Explicit local coupling global structure clustering"
+  year: 2023
+  venue: "IEEE Transactions on Circuits and Systems for Video Technology"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:zYLM7Y9cAGgC"
+  authors:
+    - "H. Li"
+    - "Y. Guo"
+    - "Z. Ren"
+    - "F. R. Yu"
+    - "Jiali You"
+    - "X. You"
+
+- title: "Clustering via multiple kernel k-means coupled graph and enhanced tensor learning"
+  year: 2023
+  venue: "Applied Intelligence"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:u-x6o8ySG0sC"
+  authors:
+    - "Jiali You"
+    - "C. Han"
+    - "Z. Ren"
+    - "H. Li"
+    - "X. You"
+
+- title: "Cluster center consistency guided sampling learning for multiple kernel clustering"
+  year: 2022
+  venue: "Information Sciences"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:d1gkVwhDpl0C"
+  authors:
+    - "Jiali You"
+    - "Y. Hou"
+    - "Z. Ren"
+    - "X. You"
+    - "J. Dai"
+    - "Y. Yao"
+
+- title: "Approximate shifted laplacian reconstruction for multiple kernel clustering"
+  year: 2022
+  venue: "ACM MM"
+  url: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:UeHWp8X0CEIC"
+  authors:
+    - "Jiali You"
+    - "Z. Ren"
+    - "Q. Sun"
+    - "Y. Sun"
+    - "X. Li"
