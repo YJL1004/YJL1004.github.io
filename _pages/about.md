@@ -92,6 +92,7 @@ redirect_from:
     font-size: 1.35em !important;
     display: block;
     width: 100%;
+    margin-bottom: 0.65em !important;
     text-align: left !important;
   }
 
@@ -103,6 +104,7 @@ redirect_from:
   }
 
   .sidebar .author__content {
+    margin-bottom: 0.55em !important;
     text-align: left !important;
   }
 
