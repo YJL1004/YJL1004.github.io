@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-Explicit-Local-Coupling-Global-Structure-Clustering
 date: 2023-01-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
+paperurl: 'https://ieeexplore.ieee.org/document/10129262'
 authors: 
   - 'Haoran Li'
   - 'Yulan Guo'

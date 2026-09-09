@@ -84,6 +84,39 @@
   }
 }
 
+.publication-list {
+  color: mix(#000, $gray, 15%);
+  font-family: $sans-serif;
+}
+
+.publication-list__year {
+  margin: 1.35em 0 0.5em;
+  border-bottom: 0;
+  color: mix(#000, $gray, 15%);
+  font-family: $sans-serif;
+  font-size: $type-size-4;
+}
+
+.publication-list__items {
+  margin: 0 0 1.25em 1.15em;
+  padding: 0;
+}
+
+.publication-list__item {
+  margin-bottom: 0.65em;
+  padding-left: 0.1em;
+  line-height: 1.45;
+}
+
+.publication-list__title {
+  font-weight: normal;
+}
+
+.publication-list__code {
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
 
 /*
    List view
