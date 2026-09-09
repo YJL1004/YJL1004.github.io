@@ -74,6 +74,10 @@ redirect_from:
     font-weight: 700;
   }
 
+  #publications {
+    font-size: 19px;
+  }
+
   .code-link {
     margin-left: 0.35em;
     white-space: nowrap;
@@ -84,9 +88,21 @@ redirect_from:
   }
 
   .sidebar .author__bio,
+  .sidebar .author__education,
+  .sidebar .author__education li,
+  .sidebar .author__urls li,
   .sidebar .author__urls a {
-    font-size: 1.08em !important;
-    line-height: 1.55 !important;
+    font-size: 1.16em !important;
+    line-height: 1.48 !important;
+  }
+
+  .sidebar .author__education {
+    margin: 0.6em 0 1.2em 1.1em !important;
+    padding: 0 !important;
+  }
+
+  .sidebar .author__education li {
+    margin-bottom: 0.2em !important;
   }
 
   @media (min-width: 925px) {
@@ -187,7 +203,7 @@ redirect_from:
 <section id="projects" class="home-section">
   <h1><span>&#128187;</span> Projects</h1>
   <ul>
-    <li>2023年四川省科技厅苗子工程，旨在满足造血干细胞形态数据筛查的需求，利用人工智能技术显著降低筛查时间并提升准确性。</li>
+    <li>2023&#24180;&#22235;&#24029;&#30465;&#31185;&#25216;&#21381;&#33495;&#23376;&#24037;&#31243;&#65292;&#26088;&#22312;&#28385;&#36275;&#36896;&#34880;&#24178;&#32454;&#32990;&#24418;&#24577;&#25968;&#25454;&#31579;&#26597;&#30340;&#38656;&#27714;&#65292;&#21033;&#29992;&#20154;&#24037;&#26234;&#33021;&#25216;&#26415;&#26174;&#33879;&#38477;&#20302;&#31579;&#26597;&#26102;&#38388;&#24182;&#25552;&#21319;&#20934;&#30830;&#24615;&#12290;</li>
   </ul>
 </section>
 
