@@ -3,8 +3,8 @@ title: "Approximate Shifted Laplacian Reconstruction for Multiple Kernel Cluster
 collection: publications
 permalink: /publication/2022-01-01-Approximate-Shifted-Laplacian-Reconstruction-for-Multiple-Kernel-Clustering
 date: 2022-01-01
-venue: 'In the proceedings of Proceedings of the 30th ACM International Conference on Multimedia'
-paperurl: 'https://dl.acm.org/doi/10.1145/3503161.3548077'
+venue: 'ACM MM'
+paperurl: 'https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:UeHWp8X0CEIC'
 authors: 
   - 'Jiali You'
   - 'Zhenwen Ren'
@@ -12,4 +12,3 @@ authors:
   - 'Yuan Sun'
   - 'Xingfeng Li'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Approximate+Shifted+Laplacian+Reconstruction+for+Multiple+Kernel+Clustering){:target="_blank"} for full citation

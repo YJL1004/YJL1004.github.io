@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-Clustering-via-multiple-kernel-k-means-coupled-graph-and-enhanced-tensor-learning
 date: 2023-01-01
 venue: 'Applied Intelligence'
-paperurl: 'https://link.springer.com/article/10.1007/s10489-022-03470-0'
+paperurl: 'https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:u-x6o8ySG0sC'
 authors: 
   - 'Jiali You'
   - 'Chiyu Han'
@@ -12,4 +12,3 @@ authors:
   - 'Haoran Li'
   - 'Xiaojian You'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Clustering+via+multiple+kernel+k+means+coupled+graph+and+enhanced+tensor+learning){:target="_blank"} for full citation
