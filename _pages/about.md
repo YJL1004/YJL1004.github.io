@@ -234,7 +234,7 @@ redirect_from:
   <ul>
     <li class="publication-entry">
       <p class="publication-title">Frequency-aware alignment and modality-aware fusion for multimodal sentiment analysis</p>
-      <p class="publication-authors">Jing Huang, Yanan Yang, Bo Wan, <strong>Jiali You</strong>, Ming Zhang, Jiawen Deng, Fuji Ren</p>
+      <p class="publication-authors">Jiaming Huang, Yujie Yang, Bingyu Wan, <strong>Jiali You</strong>, Mingfei Zhang, Jiawen Deng, Fuji Ren</p>
       <p class="publication-venue">Information Fusion 2026 (JCR Q1, IF=15.5) <a class="pdf-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526006007">[pdf]</a></p>
     </li>
     <li class="publication-entry">
@@ -249,7 +249,7 @@ redirect_from:
     </li>
     <li class="publication-entry">
       <p class="publication-title">MvP-ECR: Multi-Perspective Emotion-Cause Reasoning for Empathetic Dialogue</p>
-      <p class="publication-authors">Yuanyuan He, Guanhua Huang, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
+      <p class="publication-authors">Yuanyuan He, Guotai Huang, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
       <p class="publication-venue">AAAI 2026 (CCF-A) <a class="pdf-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/37161">[pdf]</a></p>
     </li>
     <li class="publication-entry">
@@ -268,7 +268,7 @@ redirect_from:
     </li>
     <li class="publication-entry">
       <p class="publication-title">ECC: An emotion-cause conversation dataset for empathy response</p>
-      <p class="publication-authors">Yuanyuan He, Yali Pan, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
+      <p class="publication-authors">Yuanyuan He, Yongsen Pan, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
       <p class="publication-venue">EMNLP 2025 (CCF-B) <a class="code-link" href="https://github.com/Yuan-23/ECC">[code]</a> <a class="pdf-link" href="https://aclanthology.org/2025.emnlp-main.306/">[pdf]</a></p>
     </li>
     <li class="publication-entry">
