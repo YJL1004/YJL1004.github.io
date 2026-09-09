@@ -83,7 +83,7 @@ redirect_from:
     font-size: 1.35em !important;
     display: block;
     width: 100%;
-    text-align: center !important;
+    text-align: left !important;
   }
 
   .sidebar .author__bio,
@@ -93,9 +93,8 @@ redirect_from:
     line-height: 1.38 !important;
   }
 
-  .sidebar .author__avatar,
   .sidebar .author__content {
-    text-align: center !important;
+    text-align: left !important;
   }
 
   .sidebar .author__education {
