@@ -349,7 +349,7 @@ redirect_from:
 <section id="projects" class="home-section">
   <h1><span>&#128187;</span> Projects</h1>
   <ul>
-    <li>2023 Sichuan Provincial Department of Science and Technology Seedling Program: this project focuses on hematopoietic stem cell morphology screening and uses artificial intelligence techniques to improve screening accuracy while significantly reducing screening time.</li>
+    <li>2023年四川省科技厅苗子工程</li>
   </ul>
 </section>
 
