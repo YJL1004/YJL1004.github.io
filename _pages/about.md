@@ -79,6 +79,16 @@ redirect_from:
     white-space: nowrap;
   }
 
+  .sidebar .author__name {
+    font-size: 1.35em !important;
+  }
+
+  .sidebar .author__bio,
+  .sidebar .author__urls a {
+    font-size: 1.08em !important;
+    line-height: 1.55 !important;
+  }
+
   @media (min-width: 925px) {
     #main {
       max-width: 1500px !important;
@@ -101,41 +111,30 @@ redirect_from:
 </style>
 
 <section id="about-me" class="home-section">
-  <h1><span>&#128100;</span> About me</h1>
+  <h1><span>&#128105;</span> About me</h1>
   <p>Jiali You is a master's student at Southwest University of Science and Technology and a member of the China Society of Image and Graphics. During her studies, she has focused on theoretical research in non-linear data analysis and clustering, and has published papers in top international conferences and journals in the field of artificial intelligence, such as AAAI, ACM MM, and TNNLS. Her work centers on multi-kernel data analysis in the era of big data, and aims to systematically address storage, computation, and performance challenges faced by big data. She is committed to improving the accuracy of data clustering analysis while reducing storage and computational complexity.</p>
   <p><strong>Research Interests:</strong> clustering, multi-kernel clustering, multi-view clustering, and multimodal affective computing.</p>
-</section>
-
-<section id="honors-and-awards" class="home-section">
-  <h1><span>&#127942;</span> Honors and Awards</h1>
-  <ul>
-    <li>National Scholarship.</li>
-    <li>President Nomination Scholarship.</li>
-    <li>Outstanding Graduate of Sichuan Province.</li>
-  </ul>
 </section>
 
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
   <ul>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; two papers are online in <a href="#publications">Information Fusion</a>.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Computers &amp; Security</a>.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">AAAI</a>.</li>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neurocomputing</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">WWW</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">EMNLP</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Multimedia</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neurocomputing</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Science and Technology Review</a>.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Neural Computing and Applications</a>.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Engineering Applications of Artificial Intelligence</a>.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">AAAI</a>.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">IEEE Transactions on Circuits and Systems for Video Technology</a>.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Applied Intelligence</a>.</li>
-    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">Information Sciences</a>.</li>
-    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; one paper is online in <a href="#publications">ACM MM</a>.</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; two papers are online in Information Fusion and Computers &amp; Security.</li>
+    <li><span class="home-section__date">2026.07:</span> &#127881; &#127881; one paper is online in Information Fusion.</li>
+    <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI.</li>
+    <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing.</li>
+    <li><span class="home-section__date">2025.11:</span> &#127881; &#127881; one paper is online in EMNLP.</li>
+    <li><span class="home-section__date">2025.10:</span> &#127881; &#127881; one paper is online in Science and Technology Review.</li>
+    <li><span class="home-section__date">2025.07:</span> &#127881; &#127881; one paper is online in Neurocomputing.</li>
+    <li><span class="home-section__date">2025.04:</span> &#127881; &#127881; one paper is online in WWW.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Multimedia.</li>
+    <li><span class="home-section__date">2024.08:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; two papers are online in Neural Computing and Applications and Engineering Applications of Artificial Intelligence.</li>
+    <li><span class="home-section__date">2023.06:</span> &#127881; &#127881; one paper is online in AAAI.</li>
+    <li><span class="home-section__date">2023.04:</span> &#127881; &#127881; two papers are online in IEEE Transactions on Neural Networks and Learning Systems and IEEE Transactions on Circuits and Systems for Video Technology.</li>
+    <li><span class="home-section__date">2023.02:</span> &#127881; &#127881; one paper is online in Applied Intelligence.</li>
+    <li><span class="home-section__date">2022.10:</span> &#127881; &#127881; one paper is online in ACM MM.</li>
+    <li><span class="home-section__date">2022.08:</span> &#127881; &#127881; one paper is online in Information Sciences.</li>
   </ul>
 </section>
 
@@ -184,13 +183,6 @@ redirect_from:
 
 <section id="projects" class="home-section">
   <h1><span>&#128187;</span> Projects</h1>
-</section>
-
-<section id="education" class="home-section">
-  <h1><span>&#127891;</span> Education</h1>
-  <ul>
-    <li>Ph.D., University of Electronic Science and Technology of China, Chengdu, Sichuan.</li>
-  </ul>
 </section>
 
 <section id="services" class="home-section">
