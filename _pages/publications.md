@@ -21,7 +21,7 @@ author_profile: true
     {% endunless %}
     <li class="publication-list__item">
       <a class="publication-list__title" href="{{ publication_link }}">{{ publication.title }}</a>{% if publication.authors %},
-      <span class="publication-list__authors">{% for author in publication.authors %}{% if author == "Jiali You" or author == "游佳莉" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}{% if publication.venue %},
+      <span class="publication-list__authors">{% for author in publication.authors %}{% if author == "Jiali You" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}{% if publication.venue %},
       <strong>{{ publication.venue }}</strong>{% endif %} <strong>{{ publication.date | default: "1900-01-01" | date: "%Y" }}</strong>{% if publication.codeurl %}
       <a class="publication-list__code" href="{{ publication.codeurl }}">[code]</a>{% endif %}
     </li>
