@@ -88,6 +88,10 @@ redirect_from:
     font-size: 0.96em;
   }
 
+  #publications li {
+    margin-bottom: 0.48em;
+  }
+
   .sidebar .author__name {
     font-size: 1.35em !important;
     display: block;
