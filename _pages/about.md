@@ -79,6 +79,15 @@ redirect_from:
     white-space: nowrap;
   }
 
+  #services h2 {
+    margin: 0.85em 0 0.25em;
+    font-size: 1.05em;
+  }
+
+  #services li {
+    font-size: 0.96em;
+  }
+
   .sidebar .author__name {
     font-size: 1.35em !important;
     display: block;
