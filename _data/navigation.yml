@@ -3,9 +3,6 @@ main:
   - title: "About me"
     url: /#about-me
 
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
-
   - title: "News"
     url: /#news
 
@@ -14,6 +11,9 @@ main:
 
   - title: "Projects"
     url: /#projects
+
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
 
   - title: "Services"
     url: /#services
