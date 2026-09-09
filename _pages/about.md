@@ -229,7 +229,7 @@ redirect_from:
 <section id="projects" class="home-section">
   <h1><span>&#128187;</span> Projects</h1>
   <ul>
-    <li>2023&#24180;&#22235;&#24029;&#30465;&#31185;&#25216;&#21381;&#33495;&#23376;&#24037;&#31243;&#39033;&#30446;&#65306;&#38754;&#21521;&#36896;&#34880;&#24178;&#32454;&#32990;&#24418;&#24577;&#25968;&#25454;&#31579;&#26597;&#38656;&#27714;&#65292;&#21033;&#29992;&#20154;&#24037;&#26234;&#33021;&#25216;&#26415;&#25552;&#21319;&#31579;&#26597;&#20934;&#30830;&#24615;&#65292;&#24182;&#26174;&#33879;&#32553;&#30701;&#31579;&#26597;&#26102;&#38388;&#12290;</li>
+    <li>2023 Sichuan Provincial Department of Science and Technology Seedling Program: this project focuses on hematopoietic stem cell morphology screening and uses artificial intelligence techniques to improve screening accuracy while significantly reducing screening time.</li>
   </ul>
 </section>
 
@@ -237,10 +237,17 @@ redirect_from:
   <h1><span>&#129309;</span> Services</h1>
   <h2>Journal Reviewer</h2>
   <ul>
-    <li>Reviewer for academic journals.</li>
+    <li>Engineering Applications of Artificial Intelligence</li>
+    <li>Information Sciences</li>
+    <li>Neurocomputing</li>
+    <li>Pattern Recognition</li>
   </ul>
   <h2>Conference Reviewer</h2>
   <ul>
-    <li>Reviewer for academic conferences.</li>
+    <li>ACM MM</li>
+    <li>EMNLP</li>
+    <li>AAAI</li>
+    <li>WWW</li>
+    <li>CVPR</li>
   </ul>
 </section>
