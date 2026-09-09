@@ -244,10 +244,8 @@ redirect_from:
   </ul>
   <h2>Conference Reviewer</h2>
   <ul>
-    <li>ACM MM</li>
-    <li>EMNLP</li>
-    <li>AAAI</li>
-    <li>WWW</li>
-    <li>CVPR</li>
+    <li><strong>2027:</strong> AAAI</li>
+    <li><strong>2026:</strong> EMNLP, AAAI</li>
+    <li><strong>2025:</strong> ACM MM, AAAI, WWW, CVPR</li>
   </ul>
 </section>
