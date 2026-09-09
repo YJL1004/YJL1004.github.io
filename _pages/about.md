@@ -29,7 +29,7 @@ redirect_from:
     color: #494e52;
     font-family: "Times New Roman", Times, serif;
     font-size: 21px;
-    line-height: 1.45;
+    line-height: 1.34;
     scroll-margin-top: 90px;
   }
 
@@ -51,7 +51,7 @@ redirect_from:
   }
 
   .home-section p {
-    margin: 0 0 0.75em;
+    margin: 0 0 0.58em;
   }
 
   .home-section ul {
@@ -60,7 +60,7 @@ redirect_from:
   }
 
   .home-section li {
-    margin-bottom: 0.45em;
+    margin-bottom: 0.28em;
     padding-left: 0.1em;
   }
 
@@ -119,7 +119,8 @@ redirect_from:
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
   <ul>
-    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; two papers are online in Information Fusion and Computers &amp; Security.</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Information Fusion.</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Computers &amp; Security.</li>
     <li><span class="home-section__date">2026.07:</span> &#127881; &#127881; one paper is online in Information Fusion.</li>
     <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI.</li>
     <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing.</li>
@@ -129,9 +130,11 @@ redirect_from:
     <li><span class="home-section__date">2025.04:</span> &#127881; &#127881; one paper is online in WWW.</li>
     <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Multimedia.</li>
     <li><span class="home-section__date">2024.08:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; two papers are online in Neural Computing and Applications and Engineering Applications of Artificial Intelligence.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in Neural Computing and Applications.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; one paper is online in Engineering Applications of Artificial Intelligence.</li>
     <li><span class="home-section__date">2023.06:</span> &#127881; &#127881; one paper is online in AAAI.</li>
-    <li><span class="home-section__date">2023.04:</span> &#127881; &#127881; two papers are online in IEEE Transactions on Neural Networks and Learning Systems and IEEE Transactions on Circuits and Systems for Video Technology.</li>
+    <li><span class="home-section__date">2023.04:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
+    <li><span class="home-section__date">2023.04:</span> &#127881; &#127881; one paper is online in IEEE Transactions on Circuits and Systems for Video Technology.</li>
     <li><span class="home-section__date">2023.02:</span> &#127881; &#127881; one paper is online in Applied Intelligence.</li>
     <li><span class="home-section__date">2022.10:</span> &#127881; &#127881; one paper is online in ACM MM.</li>
     <li><span class="home-section__date">2022.08:</span> &#127881; &#127881; one paper is online in Information Sciences.</li>
@@ -176,13 +179,16 @@ redirect_from:
 
   <h2>2022</h2>
   <ul>
-    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:d1gkVwhDpl0C">Cluster center consistency guided sampling learning for multiple kernel clustering</a>, <strong>Jiali You</strong>, Y. Hou, Z. Ren, X. You, J. Dai, Y. Yao, <strong>Information Sciences 2022</strong></li>
+    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:d1gkVwhDpl0C">Cluster center consistency guided sampling learning for multiple kernel clustering</a>, <strong>Jiali You</strong>, Y. Hou, Z. Ren, X. You, J. Dai, Y. Yao, <strong>Information Sciences 2022</strong> <a class="code-link" href="https://github.com/YJL1004/3CSL-MKC">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:UeHWp8X0CEIC">Approximate shifted laplacian reconstruction for multiple kernel clustering</a>, <strong>Jiali You</strong>, Z. Ren, Q. Sun, Y. Sun, X. Li, <strong>ACM MM 2022</strong></li>
   </ul>
 </section>
 
 <section id="projects" class="home-section">
   <h1><span>&#128187;</span> Projects</h1>
+  <ul>
+    <li>2023年四川省科技厅苗子工程，旨在满足造血干细胞形态数据筛查的需求，利用人工智能技术显著降低筛查时间并提升准确性。</li>
+  </ul>
 </section>
 
 <section id="services" class="home-section">

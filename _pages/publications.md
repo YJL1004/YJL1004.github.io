@@ -83,7 +83,7 @@ author_profile: true
 
   <h2>2022</h2>
   <ul>
-    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:d1gkVwhDpl0C">Cluster center consistency guided sampling learning for multiple kernel clustering</a>, <strong>Jiali You</strong>, Y. Hou, Z. Ren, X. You, J. Dai, Y. Yao, <strong>Information Sciences 2022</strong></li>
+    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:d1gkVwhDpl0C">Cluster center consistency guided sampling learning for multiple kernel clustering</a>, <strong>Jiali You</strong>, Y. Hou, Z. Ren, X. You, J. Dai, Y. Yao, <strong>Information Sciences 2022</strong> <a class="code-link" href="https://github.com/YJL1004/3CSL-MKC">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0svN-4MAAAAJ&citation_for_view=0svN-4MAAAAJ:UeHWp8X0CEIC">Approximate shifted laplacian reconstruction for multiple kernel clustering</a>, <strong>Jiali You</strong>, Z. Ren, Q. Sun, Y. Sun, X. Li, <strong>ACM MM 2022</strong></li>
   </ul>
 </div>
