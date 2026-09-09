@@ -83,9 +83,6 @@ author:
   name             : "Jiali You"
   avatar           : "YJL.png"
   bio              :
-  education:
-    - "&#30805;&#22763;&#65292;&#35199;&#21335;&#31185;&#25216;&#22823;&#23398;"
-    - "&#21338;&#22763;&#65292;&#30005;&#23376;&#31185;&#25216;&#22823;&#23398;"
   location         : "Mianyang, Sichuan"
   employer         :
   pubmed           : 
@@ -106,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
