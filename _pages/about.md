@@ -28,7 +28,7 @@ redirect_from:
     margin: 0 0 1.65em;
     color: #494e52;
     font-family: "Times New Roman", Times, serif;
-    font-size: 21px;
+    font-size: 19px;
     line-height: 1.34;
     scroll-margin-top: 90px;
   }
@@ -192,6 +192,17 @@ redirect_from:
     <li><strong>Multimodal sentiment analysis:</strong> it models and fuses information from different modalities, such as text, audio, and visual signals, to better understand human emotions and opinions.</li>
   </ul>
 </section>
+
+<section id="honors-and-awards" class="home-section">
+  <h1><span>&#127942;</span> Honors and Awards</h1>
+  <ul>
+    <li>国家奖学金</li>
+    <li>校长提名奖学金</li>
+    <li>西南科技大学优秀毕业生</li>
+    <li>四川省优秀毕业生</li>
+  </ul>
+</section>
+
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
   <ul>

@@ -15,7 +15,7 @@ author_profile: true
 
   .publication-list {
     color: #494e52;
-    font-size: 21px;
+    font-size: 19px;
     line-height: 1.45;
   }
 
