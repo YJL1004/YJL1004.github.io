@@ -151,7 +151,11 @@ redirect_from:
 <section id="about-me" class="home-section">
   <h1><span>&#128105;</span> About me</h1>
   <p><strong>Jiali You (游佳莉)</strong> is a Ph.D. student at the University of Electronic Science and Technology of China, Chengdu, Sichuan, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=eyLJ0fMAAAAJ&amp;hl=zh-CN">Fuji Ren</a>. She received her master's degree from Southwest University of Science and Technology, supervised by Profs. <a href="http://unix8.net/">Zhenwen Ren</a> and Yuancheng Yao.</p>
-  <p><strong>Research Interests:</strong> clustering, multi-kernel clustering, multi-view clustering, and multimodal affective computing.</p>
+  <p>Her current research interests mainly focus on:</p>
+  <ul>
+    <li><strong>Multi-view clustering:</strong> it integrates the complementary and consistent information from multiple feature extractors for clustering tasks.</li>
+    <li><strong>Multimodal sentiment analysis:</strong> it models and fuses information from different modalities, such as text, audio, and visual signals, to better understand human emotions and opinions.</li>
+  </ul>
 </section>
 
 <section id="news" class="home-section">
