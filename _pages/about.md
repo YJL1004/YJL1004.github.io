@@ -3,6 +3,7 @@ permalink: /
 title: "Jiali You"
 excerpt: "Jiali You"
 author_profile: true
+hide_title: true
 redirect_from:
   - /about/
   - /about.html
@@ -77,6 +78,22 @@ redirect_from:
     margin-left: 0.35em;
     white-space: nowrap;
   }
+
+  @media (min-width: 925px) {
+    #main {
+      max-width: 1500px !important;
+    }
+
+    .page {
+      width: 80% !important;
+      padding-left: 1.5% !important;
+      padding-right: 0 !important;
+    }
+
+    .sidebar {
+      width: 17% !important;
+    }
+  }
 </style>
 
 <section id="about-me" class="home-section">
@@ -96,11 +113,25 @@ redirect_from:
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
   <ul>
-    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; five papers are online/accepted in <a href="#publications">Information Fusion</a>, <a href="#publications">Computers &amp; Security</a>, <a href="#publications">AAAI</a>, and <a href="#publications">Neurocomputing</a>.</li>
-    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; five papers are online/accepted in <a href="#publications">WWW</a>, <a href="#publications">EMNLP</a>, <a href="#publications">IEEE Transactions on Multimedia</a>, <a href="#publications">Neurocomputing</a>, and <a href="#publications">Science and Technology Review</a>.</li>
-    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; three papers are online in <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>, <a href="#publications">Neural Computing and Applications</a>, and <a href="#publications">Engineering Applications of Artificial Intelligence</a>.</li>
-    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; four papers are online/accepted in <a href="#publications">AAAI</a>, <a href="#publications">IEEE Transactions on Neural Networks and Learning Systems</a>, <a href="#publications">IEEE Transactions on Circuits and Systems for Video Technology</a>, and <a href="#publications">Applied Intelligence</a>.</li>
-    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; two papers are online/accepted in <a href="#publications">ACM MM</a> and <a href="#publications">Information Sciences</a>.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Frequency-aware alignment and modality-aware fusion for multimodal sentiment analysis</a> is online in Information Fusion.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">MC-FF: A multi-community feature fusion framework for social bot detection</a> is online in Computers &amp; Security.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Salience-Guided Counterfactual Framework for Multimodal Sentiment Analysis</a> is online in Information Fusion.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">MvP-ECR: Multi-Perspective Emotion-Cause Reasoning for Empathetic Dialogue</a> is online in AAAI.</li>
+    <li><span class="home-section__date">2026.01:</span> &#127881; &#127881; <a href="#publications">Decoupled hypergraph modeling for multimodal sentiment analysis</a> is online in Neurocomputing.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation</a> is online in WWW.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">ECC: An emotion-cause conversation dataset for empathy response</a> is online in EMNLP.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Hierarchical reasoning enhanced few-shot multimodal sentiment analysis</a> is online in Neurocomputing.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering</a> is online in IEEE Transactions on Multimedia.</li>
+    <li><span class="home-section__date">2025.01:</span> &#127881; &#127881; <a href="#publications">Digital twin technology research progress from object-human-field interaction perspective</a> is online in Science and Technology Review.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">LSVC: A lifelong learning approach for stream-view clustering</a> is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">Consider high-order consistency for multi-view clustering</a> is online in Neural Computing and Applications.</li>
+    <li><span class="home-section__date">2024.01:</span> &#127881; &#127881; <a href="#publications">Multiple kernel graph clustering with shifted Laplacian reconstruction</a> is online in Engineering Applications of Artificial Intelligence.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Priori anchor labels supervised scalable multi-view bipartite graph clustering</a> is online in AAAI.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">One-stage shifted Laplacian refining for multiple kernel clustering</a> is online in IEEE Transactions on Neural Networks and Learning Systems.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Explicit local coupling global structure clustering</a> is online in IEEE Transactions on Circuits and Systems for Video Technology.</li>
+    <li><span class="home-section__date">2023.01:</span> &#127881; &#127881; <a href="#publications">Clustering via multiple kernel k-means coupled graph and enhanced tensor learning</a> is online in Applied Intelligence.</li>
+    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; <a href="#publications">Cluster center consistency guided sampling learning for multiple kernel clustering</a> is online in Information Sciences.</li>
+    <li><span class="home-section__date">2022.01:</span> &#127881; &#127881; <a href="#publications">Approximate shifted laplacian reconstruction for multiple kernel clustering</a> is online in ACM MM.</li>
   </ul>
 </section>
 
@@ -121,13 +152,13 @@ redirect_from:
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:LkGwnXOMwfcC">ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation</a>, W. Li, J. Deng, <strong>Jiali You</strong>, Y. He, Y. Zhuang, F. Ren, <strong>WWW 2025</strong> <a class="code-link" href="https://github.com/vvvvkoko/ETS-MM">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:5nxA0vEk-isC">ECC: An emotion-cause conversation dataset for empathy response</a>, Y. He, Y. Pan, W. Li, <strong>Jiali You</strong>, J. Deng, F. Ren, <strong>EMNLP 2025</strong> <a class="code-link" href="https://github.com/Yuan-23/ECC">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:Se3iqnhoufwC">Hierarchical reasoning enhanced few-shot multimodal sentiment analysis</a>, <strong>Jiali You</strong>, H. Li, J. Deng, W. Li, Y. He, F. Ren, <strong>Neurocomputing 2025</strong></li>
-    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:ufrVoPGSRksC">Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering</a>, H. Li, Y. Guo, <strong>Jiali You</strong>, X. You, Z. Ren, <strong>IEEE Transactions on Multimedia 2025</strong></li>
+    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:ufrVoPGSRksC">Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering</a>, H. Li, Y. Guo, <strong>Jiali You</strong>, X. You, Z. Ren, <strong>IEEE Transactions on Multimedia 2025</strong> <a class="code-link" href="https://github.com/haoranli50/GPF">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:kNdYIx-mwKoC">Digital twin technology research progress from object-human-field interaction perspective</a>, <strong>Jiali You</strong>, Jiawen Deng, Ziyun Jiao, Ali Luo, Yihan Song, Bo Qiu, Fuji Ren, <strong>Science and Technology Review 2025</strong></li>
   </ul>
 
   <h2>2024</h2>
   <ul>
-    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:WF5omc3nYNoC">LSVC: A lifelong learning approach for stream-view clustering</a>, H. Li, Z. Ren, Y. Guo, <strong>Jiali You</strong>, X. You, <strong>IEEE Transactions on Neural Networks and Learning Systems 2024</strong></li>
+    <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:WF5omc3nYNoC">LSVC: A lifelong learning approach for stream-view clustering</a>, H. Li, Z. Ren, Y. Guo, <strong>Jiali You</strong>, X. You, <strong>IEEE Transactions on Neural Networks and Learning Systems 2024</strong> <a class="code-link" href="https://github.com/haoranli50/LSVC">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:Y0pCki6q_DkC">Consider high-order consistency for multi-view clustering</a>, X. You, H. Li, <strong>Jiali You</strong>, Z. Ren, <strong>Neural Computing and Applications 2024</strong> <a class="code-link" href="https://github.com/haoranli50/CHOC-MVSC">[code]</a></li>
     <li><a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:W7OEmFMy1HYC">Multiple kernel graph clustering with shifted Laplacian reconstruction</a>, Yanglei Hou, <strong>Jiali You</strong>, Chunlei Zhao, Jian Dai, Xiaojian You, Zhenwen Ren, <strong>Engineering Applications of Artificial Intelligence 2024</strong></li>
   </ul>
@@ -151,6 +182,8 @@ redirect_from:
   <h1>Projects</h1>
   <ul>
     <li><a href="https://github.com/haoranli50/CHOC-MVSC">CHOC-MVSC</a>: code for high-order consistency based multi-view clustering.</li>
+    <li><a href="https://github.com/haoranli50/GPF">GPF</a>: code for graph proxy fusion based multi-view local information fusion clustering.</li>
+    <li><a href="https://github.com/haoranli50/LSVC">LSVC</a>: code for lifelong stream-view clustering.</li>
     <li><a href="https://github.com/vvvvkoko/ETS-MM">ETS-MM</a>: code for multi-modal social bot detection.</li>
     <li><a href="https://github.com/Yuan-23/ECC">ECC</a>: code and dataset resources for emotion-cause conversation and empathy response.</li>
   </ul>
