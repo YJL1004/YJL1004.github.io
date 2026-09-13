@@ -220,4 +220,19 @@ author_profile: true
       <p class="featured-paper__links"><a class="pdf-link" href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:Tyk-4Ss8FVUC"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
+
+  <h2>Social Bot Detection</h2>
+  <article class="featured-paper">
+    <div class="featured-paper__visual">
+      <span class="featured-paper__badge">WWW 2025</span>
+      <div class="featured-paper__placeholder">Paper figure placeholder</div>
+    </div>
+    <div class="featured-paper__body">
+      <h3>ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation</h3>
+      <p class="featured-paper__authors">Wei Li, Jiawen Deng, <strong>Jiali You</strong>, Yuanyuan He, Yan Zhuang, Fuji Ren</p>
+      <p class="featured-paper__venue">WWW 2025 (CCF-A)</p>
+      <p class="featured-paper__summary">This work improves multimodal social bot detection by enhancing textual semantic representations and combining them with multimodal cues.</p>
+      <p class="featured-paper__links"><a class="code-link" href="https://github.com/vvvvkoko/ETS-MM"><i class="fab fa-github" aria-hidden="true"></i> Code</a><a class="pdf-link" href="https://dl.acm.org/doi/10.1145/3696410.3714551"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+    </div>
+  </article>
 </div>
