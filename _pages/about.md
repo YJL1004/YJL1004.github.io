@@ -159,8 +159,14 @@ redirect_from:
   #publications .publication-title,
   #publications .publication-authors,
   #publications .publication-venue {
+    display: inline;
     margin: 0;
     line-height: 1.28;
+  }
+
+  #publications .publication-title::after,
+  #publications .publication-authors::after {
+    content: ", ";
   }
 
   #publications .publication-title {

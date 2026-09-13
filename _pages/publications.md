@@ -41,8 +41,14 @@ author_profile: true
   .publication-list .publication-title,
   .publication-list .publication-authors,
   .publication-list .publication-venue {
+    display: inline;
     margin: 0;
     line-height: 1.28;
+  }
+
+  .publication-list .publication-title::after,
+  .publication-list .publication-authors::after {
+    content: ", ";
   }
 
   .publication-list .publication-title {
