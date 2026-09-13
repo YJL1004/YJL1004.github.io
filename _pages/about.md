@@ -425,6 +425,11 @@ redirect_from:
   </ul>
 </section>
 
+<section id="resources" class="home-section">
+  <h1><span>&#128218;</span> Resources</h1>
+  <p>Datasets commonly used in my research will be collected here.</p>
+</section>
+
 <section id="honors-and-awards" class="home-section">
   <h1><span>&#127942;</span> Honors and Awards</h1>
   <ul>
