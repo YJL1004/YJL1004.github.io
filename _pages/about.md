@@ -430,7 +430,7 @@ redirect_from:
   <h2>Multimodal Sentiment Analysis</h2>
   <p>Image-text datasets commonly used in multimodal sentiment analysis:</p>
   <ul>
-    <li>Sentence-level datasets: MVSA-S, MVSA-M</li>
+    <li>Sentence-level datasets: <a href="https://www.kaggle.com/datasets/vincemarcs/mvsasingle?utm_source=chatgpt.com">MVSA-S</a>, <a href="https://www.kaggle.com/datasets/vincemarcs/mvsamultiple">MVSA-M</a></li>
     <li>Aspect-level datasets: Twitter-15, Twitter-17</li>
   </ul>
   <h2>Multi-view Clustering</h2>
