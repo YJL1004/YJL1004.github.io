@@ -34,8 +34,21 @@ author_profile: true
 
   .publication-list li {
     margin-bottom: 1.15em;
-    padding-left: 0.55em;
-    border-left: 4px solid #2f9be8;
+    padding: 0.32em 0.65em 0.32em 0.65em;
+    border-left: 4px solid #d7dde3;
+    border-radius: 6px;
+    transition: transform 180ms ease, background 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+  }
+
+  .publication-list li:hover {
+    border-left-color: #2f9be8;
+    background: #f3f9ff;
+    box-shadow: 0 8px 22px rgba(31, 79, 149, 0.1);
+    transform: translateY(-3px);
+  }
+
+  .publication-list li:active {
+    transform: translateY(-1px);
   }
 
   .publication-list .publication-title,
@@ -98,6 +111,17 @@ author_profile: true
 
   .publication-list .pdf-link i {
     color: #b21f2d;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .publication-list li {
+      transition: none;
+    }
+
+    .publication-list li:hover,
+    .publication-list li:active {
+      transform: none;
+    }
   }
 </style>
 
