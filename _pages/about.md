@@ -153,7 +153,7 @@ redirect_from:
   #publications .publication-entry {
     margin-bottom: 1.15em;
     padding-left: 0.55em;
-    border-left: 4px solid #1f4f95;
+    border-left: 4px solid #2f9be8;
   }
 
   #publications .publication-title,

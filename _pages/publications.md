@@ -35,7 +35,7 @@ author_profile: true
   .publication-list li {
     margin-bottom: 1.15em;
     padding-left: 0.55em;
-    border-left: 4px solid #1f4f95;
+    border-left: 4px solid #2f9be8;
   }
 
   .publication-list .publication-title,

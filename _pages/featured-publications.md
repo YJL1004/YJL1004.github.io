@@ -20,6 +20,18 @@ author_profile: true
     line-height: 1.45;
   }
 
+  @media (min-width: 925px) {
+    #main {
+      max-width: 1640px;
+    }
+
+    .page {
+      width: 84%;
+      padding-left: 1.5%;
+      padding-right: 0;
+    }
+  }
+
   .featured-intro {
     margin: 0.8em 0 1.4em;
     padding: 0.9em 1.1em;
@@ -163,34 +175,6 @@ author_profile: true
       <p class="featured-paper__venue">Information Fusion 2026 (JCR Q1, IF=15.5)</p>
       <p class="featured-paper__summary">This work introduces a salience-guided counterfactual framework to strengthen multimodal sentiment understanding by focusing on informative cross-modal evidence.</p>
       <p class="featured-paper__links"><a class="pdf-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526004653"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
-    </div>
-  </article>
-
-  <article class="featured-paper">
-    <div class="featured-paper__visual">
-      <span class="featured-paper__badge">Information Fusion 2026</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
-    </div>
-    <div class="featured-paper__body">
-      <h3>Frequency-aware alignment and modality-aware fusion for multimodal sentiment analysis</h3>
-      <p class="featured-paper__authors">Jiaming Huang, Yujie Yang, Bingyu Wan, <strong>Jiali You</strong>, Mingfei Zhang, Jiawen Deng, Fuji Ren</p>
-      <p class="featured-paper__venue">Information Fusion 2026 (JCR Q1, IF=15.5)</p>
-      <p class="featured-paper__summary">This paper studies frequency-aware cross-modal alignment and modality-aware fusion for more effective multimodal sentiment representation.</p>
-      <p class="featured-paper__links"><a class="pdf-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526006007"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
-    </div>
-  </article>
-
-  <article class="featured-paper">
-    <div class="featured-paper__visual">
-      <span class="featured-paper__badge">AAAI 2026</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
-    </div>
-    <div class="featured-paper__body">
-      <h3>MvP-ECR: Multi-Perspective Emotion-Cause Reasoning for Empathetic Dialogue</h3>
-      <p class="featured-paper__authors">Yuanyuan He, Guotai Huang, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
-      <p class="featured-paper__venue">AAAI 2026 (CCF-A)</p>
-      <p class="featured-paper__summary">This work explores emotion-cause reasoning from multiple perspectives to support more empathetic dialogue understanding.</p>
-      <p class="featured-paper__links"><a class="pdf-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/37161"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
 
