@@ -53,6 +53,7 @@ author_profile: true
   .featured-paper {
     display: grid;
     grid-template-columns: minmax(220px, 34%) 1fr;
+    align-items: start;
     margin: 0 0 1.35em;
     border: 1px solid #e6edf5;
     border-radius: 10px;
@@ -63,10 +64,19 @@ author_profile: true
 
   .featured-paper__visual {
     position: relative;
-    min-height: 220px;
-    padding: 1.1em;
+    padding: 0.95em;
     background: #f1f7ff;
     border-right: 1px solid #e1ebf7;
+  }
+
+  .featured-paper__image {
+    display: block;
+    width: 100%;
+    max-height: 260px;
+    margin: 0 auto;
+    border-radius: 6px;
+    object-fit: contain;
+    background: #fff;
   }
 
   .featured-paper__placeholder {
@@ -95,7 +105,7 @@ author_profile: true
   }
 
   .featured-paper__body {
-    padding: 1.25em 1.45em;
+    padding: 1.1em 1.35em;
   }
 
   .featured-paper h3 {
