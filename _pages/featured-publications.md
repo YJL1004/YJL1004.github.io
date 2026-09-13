@@ -167,7 +167,7 @@ author_profile: true
   <article class="featured-paper">
     <div class="featured-paper__visual">
       <span class="featured-paper__badge">Information Fusion 2026</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
+      <img class="featured-paper__image" src="/images/Salience-Guided.png" alt="Salience-Guided paper figure">
     </div>
     <div class="featured-paper__body">
       <h3>Salience-Guided Counterfactual Framework for Multimodal Sentiment Analysis</h3>
@@ -217,7 +217,7 @@ author_profile: true
       <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, Xiaojian You, Haoran Li, Yuancheng Yao</p>
       <p class="featured-paper__venue">AAAI 2023 (CCF-A)</p>
       <p class="featured-paper__summary">This work introduces priori anchor label supervision into scalable multi-view bipartite graph clustering for efficient and effective multi-view learning.</p>
-      <p class="featured-paper__links"><a class="pdf-link" href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:Tyk-4Ss8FVUC"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+      <p class="featured-paper__links"><a class="pdf-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/26300"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
 
