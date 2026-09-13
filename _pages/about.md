@@ -431,7 +431,7 @@ redirect_from:
   <p>Image-text datasets commonly used in multimodal sentiment analysis:</p>
   <ul>
     <li>Sentence-level datasets: <a href="https://www.kaggle.com/datasets/vincemarcs/mvsasingle?utm_source=chatgpt.com">MVSA-S</a>, <a href="https://www.kaggle.com/datasets/vincemarcs/mvsamultiple">MVSA-M</a></li>
-    <li>Aspect-level datasets: Twitter-15, Twitter-17</li>
+    <li>Aspect-level datasets: <a href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-15</a>, <a href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-17</a></li>
   </ul>
   <h2>Multi-view Clustering</h2>
   <p>Datasets commonly used in multi-view clustering will be collected here.</p>
