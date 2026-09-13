@@ -171,7 +171,7 @@ author_profile: true
 
 <div class="featured-publications">
   <div class="featured-intro">
-    Selected papers are grouped by research area. The left panels are image placeholders and can be replaced with paper figures later.
+    Selected papers are grouped by research area, with representative figures and links to the corresponding papers.
   </div>
 
   <h2>Multimodal Sentiment Analysis</h2>
