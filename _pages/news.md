@@ -20,15 +20,6 @@ author_profile: true
     line-height: 1.45;
   }
 
-  .news-archive h1 {
-    margin: 0 0 0.95em;
-    padding-bottom: 0.4em;
-    border-bottom: 2px solid #0b70d8;
-    color: #000;
-    font-size: 1.6em;
-    font-weight: 700;
-  }
-
   .news-archive h2 {
     margin: 1.35em 0 0.8em;
     padding-bottom: 0.35em;
@@ -57,8 +48,6 @@ author_profile: true
 </style>
 
 <div class="news-archive">
-  <h1>News &amp; Updates</h1>
-
   <h2>2026</h2>
   <ul>
     <li><span class="news-archive__date">[08.2026]</span> One paper is online in Information Fusion (JCR Q1, IF=15.5).</li>

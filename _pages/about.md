@@ -94,22 +94,6 @@ redirect_from:
     text-decoration: none;
   }
 
-  .news-list {
-    margin-left: 0 !important;
-    list-style: none;
-  }
-
-  .news-list li {
-    margin-bottom: 0.5em;
-  }
-
-  .news-date {
-    display: inline-block;
-    min-width: 5.6em;
-    color: #0066d9;
-    font-weight: 700;
-  }
-
   .code-link {
     margin-left: 0.35em;
     white-space: nowrap;
@@ -243,12 +227,12 @@ redirect_from:
   <div class="news-callout">
     <strong>Latest updates are shown below.</strong> For the complete archive, please visit <a href="/news/">More News &raquo;</a>
   </div>
-  <ul class="news-list">
-    <li><span class="news-date">[08.2026]</span> One paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
-    <li><span class="news-date">[08.2026]</span> One paper is online in Computers &amp; Security (JCR Q1, IF=5.4).</li>
-    <li><span class="news-date">[07.2026]</span> One paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
-    <li><span class="news-date">[03.2026]</span> One paper is online in AAAI (CCF-A).</li>
-    <li><span class="news-date">[02.2026]</span> One paper is online in Neurocomputing (JCR Q1, IF=6.5).</li>
+  <ul>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Computers &amp; Security (JCR Q1, IF=5.4).</li>
+    <li><span class="home-section__date">2026.07:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
+    <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI (CCF-A).</li>
+    <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing (JCR Q1, IF=6.5).</li>
   </ul>
 </section>
 
