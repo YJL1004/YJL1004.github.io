@@ -427,7 +427,16 @@ redirect_from:
 
 <section id="resources" class="home-section">
   <h1><span>&#128218;</span> Resources</h1>
-  <p>Datasets commonly used in my research will be collected here.</p>
+  <h2>Multimodal Sentiment Analysis</h2>
+  <p>Image-text datasets commonly used in multimodal sentiment analysis:</p>
+  <ul>
+    <li>MVSA-S</li>
+    <li>MVSA-M</li>
+    <li>Twitter-15</li>
+    <li>Twitter-17</li>
+  </ul>
+  <h2>Multi-view Clustering</h2>
+  <p>Datasets commonly used in multi-view clustering will be collected here.</p>
 </section>
 
 <section id="honors-and-awards" class="home-section">
