@@ -430,8 +430,8 @@ redirect_from:
   <h2>Multimodal Sentiment Analysis</h2>
   <p>Image-text datasets commonly used in multimodal sentiment analysis:</p>
   <ul>
-    <li>句子级数据集：MVSA-S、MVSA-M</li>
-    <li>方面级数据集：Twitter-15、Twitter-17</li>
+    <li>Sentence-level datasets: MVSA-S, MVSA-M</li>
+    <li>Aspect-level datasets: Twitter-15, Twitter-17</li>
   </ul>
   <h2>Multi-view Clustering</h2>
   <p>Datasets commonly used in multi-view clustering will be collected here.</p>
