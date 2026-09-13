@@ -131,26 +131,6 @@ redirect_from:
     color: #b21f2d;
   }
 
-  .dataset-link {
-    display: inline-flex;
-    align-items: center;
-    margin: 0 0.18em;
-    padding: 0.05em 0.46em;
-    border: 1px solid #d7e4f4;
-    border-radius: 4px;
-    background: #f7fbff;
-    color: #1f4f95;
-    font-size: 0.88em;
-    line-height: 1.35;
-    text-decoration: none;
-    white-space: nowrap;
-  }
-
-  .dataset-link:hover {
-    background: #eaf3ff;
-    text-decoration: none;
-  }
-
   #services h2 {
     margin: 0.85em 0 0.25em;
     font-size: 1.05em;
@@ -443,19 +423,6 @@ redirect_from:
   <ul>
     <li>2023年四川省科技厅苗子工程</li>
   </ul>
-</section>
-
-<section id="resources" class="home-section">
-  <h1><span>&#128218;</span> Resources</h1>
-  <h2>Multimodal Sentiment Analysis</h2>
-  <p>Image-text datasets commonly used in multimodal sentiment analysis:</p>
-  <ul>
-    <li>Sentence-level datasets: <a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsasingle?utm_source=chatgpt.com">MVSA-S</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsamultiple">MVSA-M</a></li>
-    <li>Aspect-level datasets: <a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-15</a>, <a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-17</a></li>
-    <li>Text-image-audio multimodal datasets: <a class="dataset-link" href="https://www.kaggle.com/datasets/samarwarsi/cmu-mosei">CMU-MOSEI</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/susritapanda/cmu-mosi">CMU-MOSI</a></li>
-  </ul>
-  <h2>Multi-view Clustering</h2>
-  <p>Datasets commonly used in multi-view clustering will be collected here.</p>
 </section>
 
 <section id="honors-and-awards" class="home-section">
