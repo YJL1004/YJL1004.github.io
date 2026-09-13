@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "Jiali You"
 excerpt: "Jiali You"
@@ -228,11 +228,11 @@ redirect_from:
     <strong>Latest updates are shown below.</strong> For the complete archive, please visit <a href="/news/">More News &raquo;</a>
   </div>
   <ul>
-    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
-    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Computers &amp; Security (JCR Q1, IF=5.4).</li>
-    <li><span class="home-section__date">2026.07:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5).</li>
-    <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI (CCF-A).</li>
-    <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing (JCR Q1, IF=6.5).</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiaming Huang and coauthors!</li>
+    <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Computers &amp; Security (JCR Q1, IF=5.4). Congratulations to Wei Li and coauthors!</li>
+    <li><span class="home-section__date">2026.07:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI (CCF-A). Congratulations to Yuanyuan He and coauthors!</li>
+    <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Yanping Huang and coauthors!</li>
   </ul>
 </section>
 
