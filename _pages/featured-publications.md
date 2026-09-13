@@ -53,7 +53,6 @@ author_profile: true
   .featured-paper {
     display: grid;
     grid-template-columns: minmax(220px, 34%) 1fr;
-    align-items: start;
     margin: 0 0 1.35em;
     border: 1px solid #e6edf5;
     border-radius: 10px;
@@ -64,6 +63,8 @@ author_profile: true
 
   .featured-paper__visual {
     position: relative;
+    display: flex;
+    flex-direction: column;
     padding: 0.95em;
     background: #f1f7ff;
     border-right: 1px solid #e1ebf7;
@@ -73,7 +74,7 @@ author_profile: true
     display: block;
     width: 100%;
     max-height: 260px;
-    margin: 0 auto;
+    margin: auto;
     border-radius: 6px;
     object-fit: contain;
     background: #fff;
@@ -85,6 +86,7 @@ author_profile: true
     justify-content: center;
     height: 100%;
     min-height: 188px;
+    margin: auto 0;
     border: 2px dashed #9fc7ee;
     border-radius: 8px;
     color: #2b6aa0;
@@ -93,9 +95,8 @@ author_profile: true
   }
 
   .featured-paper__badge {
-    position: absolute;
-    top: 1em;
-    left: 1em;
+    align-self: flex-start;
+    margin: 0 0 0.65em;
     padding: 0.25em 0.75em;
     border-radius: 999px;
     background: #2f9be8;
@@ -233,4 +234,3 @@ author_profile: true
       <p class="featured-paper__links"><a class="pdf-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/26300"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
-

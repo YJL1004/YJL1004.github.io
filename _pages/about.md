@@ -75,7 +75,7 @@ redirect_from:
   }
 
   #news h1 {
-    border-bottom: 2px solid #0b70d8;
+    border-bottom: 0;
   }
 
   .news-callout,
