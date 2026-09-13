@@ -78,7 +78,8 @@ redirect_from:
     border-bottom: 2px solid #0b70d8;
   }
 
-  .news-callout {
+  .news-callout,
+  .pub-callout {
     margin: 0.95em 0 1.25em;
     padding: 0.9em 1.1em;
     border-left: 5px solid #2f9be8;
@@ -88,7 +89,8 @@ redirect_from:
     line-height: 1.36;
   }
 
-  .news-callout a {
+  .news-callout a,
+  .pub-callout a {
     color: #1f8dd6;
     font-weight: 700;
     text-decoration: none;
@@ -260,6 +262,9 @@ redirect_from:
 
 <section id="publications" class="home-section">
   <h1><span>&#128221;</span> Publications</h1>
+  <div class="pub-callout">
+    <strong>Selected publications are organized by research area.</strong> For topic-based highlights, please visit <a href="/featured-publications/">More Publications &raquo;</a>
+  </div>
 
   <h2>2026</h2>
   <ul>
