@@ -197,15 +197,15 @@ author_profile: true
   <h2>Multi-view Clustering</h2>
   <article class="featured-paper">
     <div class="featured-paper__visual">
-      <span class="featured-paper__badge">IEEE T-MM 2025</span>
+      <span class="featured-paper__badge">TNNLS 2023</span>
       <div class="featured-paper__placeholder">Paper figure placeholder</div>
     </div>
     <div class="featured-paper__body">
-      <h3>Graph proxy fusion: Consensus graph intermediated multi-view local information fusion clustering</h3>
-      <p class="featured-paper__authors">Haoran Li, Yifan Guo, <strong>Jiali You</strong>, Xiaojian You, Zhenwen Ren</p>
-      <p class="featured-paper__venue">IEEE Transactions on Multimedia 2025 (JCR Q1, IF=9.9)</p>
-      <p class="featured-paper__summary">This paper builds consensus graph proxies to integrate local information from multiple views for robust clustering.</p>
-      <p class="featured-paper__links"><a class="code-link" href="https://github.com/haoranli50/GPF"><i class="fab fa-github" aria-hidden="true"></i> Code</a><a class="pdf-link" href="https://ieeexplore.ieee.org/document/10829987/"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+      <h3>One-stage shifted Laplacian refining for multiple kernel clustering</h3>
+      <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, F. Richard Yu, Xiaojian You</p>
+      <p class="featured-paper__venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9)</p>
+      <p class="featured-paper__summary">This work develops a one-stage shifted Laplacian refining strategy to improve multiple kernel clustering with a more compact optimization process.</p>
+      <p class="featured-paper__links"><a class="pdf-link" href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:IjCSPb-OGe4C"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
 
@@ -225,44 +225,15 @@ author_profile: true
 
   <article class="featured-paper">
     <div class="featured-paper__visual">
-      <span class="featured-paper__badge">Information Sciences 2022</span>
+      <span class="featured-paper__badge">AAAI 2023</span>
       <div class="featured-paper__placeholder">Paper figure placeholder</div>
     </div>
     <div class="featured-paper__body">
-      <h3>Cluster center consistency guided sampling learning for multiple kernel clustering</h3>
-      <p class="featured-paper__authors"><strong>Jiali You</strong>, Yanglei Hou, Zhenwen Ren, Xiaojian You, Jian Dai, Yuancheng Yao</p>
-      <p class="featured-paper__venue">Information Sciences 2022 (JCR Q1, IF=6.8)</p>
-      <p class="featured-paper__summary">This paper uses cluster-center consistency guided sampling to improve the effectiveness and efficiency of multiple kernel clustering.</p>
-      <p class="featured-paper__links"><a class="code-link" href="https://github.com/YJL1004/3CSL-MKC"><i class="fab fa-github" aria-hidden="true"></i> Code</a><a class="pdf-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522005059"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
-    </div>
-  </article>
-
-  <h2>Social Bot Detection and Empathy Resources</h2>
-  <article class="featured-paper">
-    <div class="featured-paper__visual">
-      <span class="featured-paper__badge">WWW 2025</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
-    </div>
-    <div class="featured-paper__body">
-      <h3>ETS-MM: a multi-modal social bot detection model based on enhanced textual semantic representation</h3>
-      <p class="featured-paper__authors">Wei Li, Jiawen Deng, <strong>Jiali You</strong>, Yuanyuan He, Yan Zhuang, Fuji Ren</p>
-      <p class="featured-paper__venue">WWW 2025 (CCF-A)</p>
-      <p class="featured-paper__summary">This work improves multimodal social bot detection by enhancing textual semantic representations and combining them with multimodal cues.</p>
-      <p class="featured-paper__links"><a class="code-link" href="https://github.com/vvvvkoko/ETS-MM"><i class="fab fa-github" aria-hidden="true"></i> Code</a><a class="pdf-link" href="https://dl.acm.org/doi/10.1145/3696410.3714551"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
-    </div>
-  </article>
-
-  <article class="featured-paper">
-    <div class="featured-paper__visual">
-      <span class="featured-paper__badge">EMNLP 2025</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
-    </div>
-    <div class="featured-paper__body">
-      <h3>ECC: An emotion-cause conversation dataset for empathy response</h3>
-      <p class="featured-paper__authors">Yuanyuan He, Yongsen Pan, Wei Li, <strong>Jiali You</strong>, Jiawen Deng, Fuji Ren</p>
-      <p class="featured-paper__venue">EMNLP 2025 (CCF-B)</p>
-      <p class="featured-paper__summary">This paper introduces an emotion-cause conversation dataset to support research on empathy response generation and emotional reasoning.</p>
-      <p class="featured-paper__links"><a class="code-link" href="https://github.com/Yuan-23/ECC"><i class="fab fa-github" aria-hidden="true"></i> Code</a><a class="pdf-link" href="https://aclanthology.org/2025.emnlp-main.306/"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+      <h3>Priori anchor labels supervised scalable multi-view bipartite graph clustering</h3>
+      <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, Xiaojian You, Haoran Li, Yuancheng Yao</p>
+      <p class="featured-paper__venue">AAAI 2023 (CCF-A)</p>
+      <p class="featured-paper__summary">This work introduces priori anchor label supervision into scalable multi-view bipartite graph clustering for efficient and effective multi-view learning.</p>
+      <p class="featured-paper__links"><a class="pdf-link" href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:Tyk-4Ss8FVUC"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
 </div>
