@@ -189,7 +189,7 @@ author_profile: true
       <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, F. Richard Yu, Xiaojian You</p>
       <p class="featured-paper__venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9)</p>
       <p class="featured-paper__summary">This work develops a one-stage shifted Laplacian refining strategy to improve multiple kernel clustering with a more compact optimization process.</p>
-      <p class="featured-paper__links"><a class="pdf-link" href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=0svN-4MAAAAJ&amp;citation_for_view=0svN-4MAAAAJ:IjCSPb-OGe4C"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+      <p class="featured-paper__links"><a class="pdf-link" href="https://ieeexplore.ieee.org/abstract/document/10091844"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </div>
   </article>
 

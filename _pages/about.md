@@ -359,7 +359,7 @@ redirect_from:
     <li class="publication-entry">
       <p class="publication-title">One-stage shifted Laplacian refining for multiple kernel clustering</p>
       <p class="publication-authors"><strong>Jiali You</strong>, Zhenwen Ren, F. Richard Yu, Xiaojian You</p>
-      <p class="publication-venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9) <a class="pdf-link" href="https://doi.org/10.1109/TNNLS.2023.3262590"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+      <p class="publication-venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9) <a class="pdf-link" href="https://ieeexplore.ieee.org/abstract/document/10091844"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
     </li>
     <li class="publication-entry">
       <p class="publication-title">Explicit local coupling global structure clustering</p>
