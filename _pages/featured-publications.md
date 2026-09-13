@@ -189,24 +189,10 @@ author_profile: true
   </article>
 
   <h2>Multi-view Clustering</h2>
-  <article class="featured-paper">
-    <div class="featured-paper__visual">
-      <span class="featured-paper__badge">TNNLS 2023</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
-    </div>
-    <div class="featured-paper__body">
-      <h3>One-stage shifted Laplacian refining for multiple kernel clustering</h3>
-      <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, F. Richard Yu, Xiaojian You</p>
-      <p class="featured-paper__venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9)</p>
-      <p class="featured-paper__summary">This work develops a one-stage shifted Laplacian refining strategy to improve multiple kernel clustering with a more compact optimization process.</p>
-      <p class="featured-paper__links"><a class="pdf-link" href="https://ieeexplore.ieee.org/abstract/document/10091844"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
-    </div>
-  </article>
-
-  <article class="featured-paper">
+    <article class="featured-paper">
     <div class="featured-paper__visual">
       <span class="featured-paper__badge">TNNLS 2024</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
+            <img class="featured-paper__image" src="/images/LVSC.png" alt="LVSC paper figure">
     </div>
     <div class="featured-paper__body">
       <h3>LSVC: A lifelong learning approach for stream-view clustering</h3>
@@ -217,10 +203,27 @@ author_profile: true
     </div>
   </article>
 
+
+
+  <article class="featured-paper">
+    <div class="featured-paper__visual">
+      <span class="featured-paper__badge">TNNLS 2023</span>
+      <img class="featured-paper__image" src="/images/One-stage.png" alt="One-stage paper figure">
+    </div>
+    <div class="featured-paper__body">
+      <h3>One-stage shifted Laplacian refining for multiple kernel clustering</h3>
+      <p class="featured-paper__authors"><strong>Jiali You</strong>, Zhenwen Ren, F. Richard Yu, Xiaojian You</p>
+      <p class="featured-paper__venue">IEEE Transactions on Neural Networks and Learning Systems 2023 (JCR Q1, IF=8.9)</p>
+      <p class="featured-paper__summary">This work develops a one-stage shifted Laplacian refining strategy to improve multiple kernel clustering with a more compact optimization process.</p>
+      <p class="featured-paper__links"><a class="pdf-link" href="https://ieeexplore.ieee.org/abstract/document/10091844"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+    </div>
+  </article>
+
+
   <article class="featured-paper">
     <div class="featured-paper__visual">
       <span class="featured-paper__badge">AAAI 2023</span>
-      <div class="featured-paper__placeholder">Paper figure placeholder</div>
+         <img class="featured-paper__image" src="/images/Priori-Anchor.png" alt="Priori-Anchor paper figure">
     </div>
     <div class="featured-paper__body">
       <h3>Priori anchor labels supervised scalable multi-view bipartite graph clustering</h3>
