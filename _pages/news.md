@@ -39,10 +39,8 @@ author_profile: true
     margin-bottom: 0.55em;
   }
 
-  .news-archive__date {
-    display: inline-block;
-    min-width: 5.6em;
-    color: #0066d9;
+  .home-section__date {
+    font-style: italic;
     font-weight: 700;
   }
 </style>
@@ -50,40 +48,40 @@ author_profile: true
 <div class="news-archive">
   <h2>2026</h2>
   <ul>
-    <li><span class="news-archive__date">[08.2026]</span> One paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiaming Huang and coauthors!</li>
-    <li><span class="news-archive__date">[08.2026]</span> One paper is online in Computers &amp; Security (JCR Q1, IF=5.4). Congratulations to Wei Li and coauthors!</li>
-    <li><span class="news-archive__date">[07.2026]</span> One paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[03.2026]</span> One paper is online in AAAI (CCF-A). Congratulations to Yuanyuan He and coauthors!</li>
-    <li><span class="news-archive__date">[02.2026]</span> One paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Yanping Huang and coauthors!</li>
+    <li><span class="home-section__date">2026.08:</span> One paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiaming Huang and coauthors!</li>
+    <li><span class="home-section__date">2026.08:</span> One paper is online in Computers &amp; Security (JCR Q1, IF=5.4). Congratulations to Wei Li and coauthors!</li>
+    <li><span class="home-section__date">2026.07:</span> One paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2026.03:</span> One paper is online in AAAI (CCF-A). Congratulations to Yuanyuan He and coauthors!</li>
+    <li><span class="home-section__date">2026.02:</span> One paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Yanping Huang and coauthors!</li>
   </ul>
 
   <h2>2025</h2>
   <ul>
-    <li><span class="news-archive__date">[11.2025]</span> One paper is online in EMNLP (CCF-B). Congratulations to Yuanyuan He and coauthors!</li>
-    <li><span class="news-archive__date">[10.2025]</span> One paper is online in Science and Technology Review (PKU Core, CSCD, Composite IF=1.882). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[07.2025]</span> One paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[04.2025]</span> One paper is online in WWW (CCF-A). Congratulations to Wei Li and coauthors!</li>
-    <li><span class="news-archive__date">[01.2025]</span> One paper is online in IEEE Transactions on Multimedia (JCR Q1, IF=9.9). Congratulations to Haoran Li and coauthors!</li>
+    <li><span class="home-section__date">2025.11:</span> One paper is online in EMNLP (CCF-B). Congratulations to Yuanyuan He and coauthors!</li>
+    <li><span class="home-section__date">2025.10:</span> One paper is online in Science and Technology Review (PKU Core, CSCD, Composite IF=1.882). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2025.07:</span> One paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2025.04:</span> One paper is online in WWW (CCF-A). Congratulations to Wei Li and coauthors!</li>
+    <li><span class="home-section__date">2025.01:</span> One paper is online in IEEE Transactions on Multimedia (JCR Q1, IF=9.9). Congratulations to Haoran Li and coauthors!</li>
   </ul>
 
   <h2>2024</h2>
   <ul>
-    <li><span class="news-archive__date">[08.2024]</span> One paper is online in IEEE Transactions on Neural Networks and Learning Systems (JCR Q1, IF=8.9). Congratulations to Haoran Li and coauthors!</li>
-    <li><span class="news-archive__date">[01.2024]</span> One paper is online in Neural Computing and Applications (JCR Q2, IF=4.5). Congratulations to Xiaojian You and coauthors!</li>
-    <li><span class="news-archive__date">[01.2024]</span> One paper is online in Engineering Applications of Artificial Intelligence (JCR Q1, IF=8.0). Congratulations to Yanglei Hou and coauthors!</li>
+    <li><span class="home-section__date">2024.08:</span> One paper is online in IEEE Transactions on Neural Networks and Learning Systems (JCR Q1, IF=8.9). Congratulations to Haoran Li and coauthors!</li>
+    <li><span class="home-section__date">2024.01:</span> One paper is online in Neural Computing and Applications (JCR Q2, IF=4.5). Congratulations to Xiaojian You and coauthors!</li>
+    <li><span class="home-section__date">2024.01:</span> One paper is online in Engineering Applications of Artificial Intelligence (JCR Q1, IF=8.0). Congratulations to Yanglei Hou and coauthors!</li>
   </ul>
 
   <h2>2023</h2>
   <ul>
-    <li><span class="news-archive__date">[06.2023]</span> One paper is online in AAAI (CCF-A). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[04.2023]</span> One paper is online in IEEE Transactions on Neural Networks and Learning Systems (JCR Q1, IF=8.9). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[04.2023]</span> One paper is online in IEEE Transactions on Circuits and Systems for Video Technology (JCR Q1, IF=11.1). Congratulations to Haoran Li and coauthors!</li>
-    <li><span class="news-archive__date">[02.2023]</span> One paper is online in Applied Intelligence (JCR Q2, IF=3.5). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2023.06:</span> One paper is online in AAAI (CCF-A). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2023.04:</span> One paper is online in IEEE Transactions on Neural Networks and Learning Systems (JCR Q1, IF=8.9). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2023.04:</span> One paper is online in IEEE Transactions on Circuits and Systems for Video Technology (JCR Q1, IF=11.1). Congratulations to Haoran Li and coauthors!</li>
+    <li><span class="home-section__date">2023.02:</span> One paper is online in Applied Intelligence (JCR Q2, IF=3.5). Congratulations to Jiali You and coauthors!</li>
   </ul>
 
   <h2>2022</h2>
   <ul>
-    <li><span class="news-archive__date">[10.2022]</span> One paper is online in ACM MM (CCF-A). Congratulations to Jiali You and coauthors!</li>
-    <li><span class="news-archive__date">[08.2022]</span> One paper is online in Information Sciences (JCR Q1, IF=6.8). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2022.10:</span> One paper is online in ACM MM (CCF-A). Congratulations to Jiali You and coauthors!</li>
+    <li><span class="home-section__date">2022.08:</span> One paper is online in Information Sciences (JCR Q1, IF=6.8). Congratulations to Jiali You and coauthors!</li>
   </ul>
 </div>
