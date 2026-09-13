@@ -78,7 +78,6 @@ redirect_from:
     border-bottom: 1px solid #f0f0f0;
   }
 
-  .news-callout,
   .pub-callout {
     margin: 0.95em 0 1.25em;
     padding: 0.9em 1.1em;
@@ -89,8 +88,17 @@ redirect_from:
     line-height: 1.36;
   }
 
-  .news-callout a,
   .pub-callout a {
+    color: #1f8dd6;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .more-news-link {
+    margin: -0.45em 0 1.15em 0;
+  }
+
+  .more-news-link a {
     color: #1f8dd6;
     font-weight: 700;
     text-decoration: none;
@@ -278,9 +286,6 @@ redirect_from:
 
 <section id="news" class="home-section">
   <h1><span>&#128293;</span> News</h1>
-  <div class="news-callout">
-    <strong>Latest updates are shown below.</strong> For the complete archive, please visit <a href="/news/">More News &raquo;</a>
-  </div>
   <ul>
     <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Information Fusion (JCR Q1, IF=15.5). Congratulations to Jiaming Huang and coauthors!</li>
     <li><span class="home-section__date">2026.08:</span> &#127881; &#127881; one paper is online in Computers &amp; Security (JCR Q1, IF=5.4). Congratulations to Wei Li and coauthors!</li>
@@ -288,6 +293,7 @@ redirect_from:
     <li><span class="home-section__date">2026.03:</span> &#127881; &#127881; one paper is online in AAAI (CCF-A). Congratulations to Yuanyuan He and coauthors!</li>
     <li><span class="home-section__date">2026.02:</span> &#127881; &#127881; one paper is online in Neurocomputing (JCR Q1, IF=6.5). Congratulations to Yanping Huang and coauthors!</li>
   </ul>
+  <p class="more-news-link"><a href="/news/">More News &raquo;</a></p>
 </section>
 
 <section id="publications" class="home-section">
