@@ -61,9 +61,9 @@ author_profile: true
 <div class="resources-page">
   <h2>Multimodal Sentiment Analysis</h2>
   <ul>
-    <li>句子级图文数据集：<a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsasingle?utm_source=chatgpt.com">MVSA-S</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsamultiple">MVSA-M</a>, <a class="dataset-link" href="">TumEmo</a></li>
-    <li>方面级图文数据集：<a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-15</a>, <a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-17</a></li>
-    <li>视频多模态数据集：<a class="dataset-link" href="https://www.kaggle.com/datasets/samarwarsi/cmu-mosei">CMU-MOSEI</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/susritapanda/cmu-mosi">CMU-MOSI</a>, <a class="dataset-link" href="https://thuiar.github.io/sims.github.io/chsims](https://thuiar.github.io/sims.github.io/chsims">CH-SIMS</a>        </li>
+    <li>Sentence-level image-text dataset：<a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsasingle?utm_source=chatgpt.com">MVSA-S</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/vincemarcs/mvsamultiple">MVSA-M</a>, <a class="dataset-link" href="">TumEmo</a></li>
+    <li>Aspect-level image-text dataset：<a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-15</a>, <a class="dataset-link" href="https://www.scidb.cn/en/file?fid=0ff802593f218a4e667769c1adfb2de7&amp;mode=front">Twitter-17</a></li>
+    <li>Video Multimodal Dataset：<a class="dataset-link" href="https://www.kaggle.com/datasets/samarwarsi/cmu-mosei">CMU-MOSEI</a>, <a class="dataset-link" href="https://www.kaggle.com/datasets/susritapanda/cmu-mosi">CMU-MOSI</a>, <a class="dataset-link" href="https://thuiar.github.io/sims.github.io/chsims](https://thuiar.github.io/sims.github.io/chsims">CH-SIMS</a>        </li>
   </ul>
 
   <h2>Multi-view Clustering</h2>
