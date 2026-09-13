@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiali You | Homepage"
-title_separator          : "-"
+title                    : "Homepage"
+title_separator          : "|"
 name                     : &name "Jiali You"
 description              : &description "personal description"
 url                      : https://yjl1004.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
