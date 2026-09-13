@@ -15,7 +15,7 @@ author_profile: true
 
   .publication-list {
     color: #494e52;
-    font-size: 20px;
+    font-size: 19px;
     line-height: 1.45;
   }
 
@@ -33,7 +33,7 @@ author_profile: true
   }
 
   .publication-list li {
-    margin-bottom: 1.15em;
+    margin-bottom: 0.82em;
     padding: 0.32em 0.65em 0.32em 0.65em;
     border-left: 4px solid #d7dde3;
     border-radius: 6px;
